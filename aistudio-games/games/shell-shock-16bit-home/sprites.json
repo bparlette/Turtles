@@ -9,71 +9,71 @@
     "n": "idle",
     "w": 122,
     "h": 150,
-    "painted": "../sprites/painted/lenny/idle.png",
-    "bit16": "../sprites/16bit/lenny/idle.png"
+    "painted": "../sprites/painted_flat/lenny_idle.png",
+    "bit16": "../sprites/16bit_flat/lenny_idle.png"
    },
    {
     "n": "walk",
     "w": 85,
     "h": 149,
-    "painted": "../sprites/painted/lenny/walk.png",
-    "bit16": "../sprites/16bit/lenny/walk.png"
+    "painted": "../sprites/painted_flat/lenny_walk.png",
+    "bit16": "../sprites/16bit_flat/lenny_walk.png"
    },
    {
     "n": "walk2",
     "w": 115,
     "h": 145,
-    "painted": "../sprites/painted/lenny/walk2.png",
-    "bit16": "../sprites/16bit/lenny/walk2.png"
+    "painted": "../sprites/painted_flat/lenny_walk2.png",
+    "bit16": "../sprites/16bit_flat/lenny_walk2.png"
    },
    {
     "n": "attack",
     "w": 173,
     "h": 140,
-    "painted": "../sprites/painted/lenny/attack.png",
-    "bit16": "../sprites/16bit/lenny/attack.png"
+    "painted": "../sprites/painted_flat/lenny_attack.png",
+    "bit16": "../sprites/16bit_flat/lenny_attack.png"
    },
    {
     "n": "jump",
     "w": 164,
     "h": 132,
-    "painted": "../sprites/painted/lenny/jump.png",
-    "bit16": "../sprites/16bit/lenny/jump.png"
+    "painted": "../sprites/painted_flat/lenny_jump.png",
+    "bit16": "../sprites/16bit_flat/lenny_jump.png"
    },
    {
     "n": "spin1",
     "w": 297,
     "h": 132,
-    "painted": "../sprites/painted/lenny/spin1.png",
-    "bit16": "../sprites/16bit/lenny/spin1.png"
+    "painted": "../sprites/painted_flat/lenny_spin1.png",
+    "bit16": "../sprites/16bit_flat/lenny_spin1.png"
    },
    {
     "n": "spin2",
     "w": 279,
     "h": 130,
-    "painted": "../sprites/painted/lenny/spin2.png",
-    "bit16": "../sprites/16bit/lenny/spin2.png"
+    "painted": "../sprites/painted_flat/lenny_spin2.png",
+    "bit16": "../sprites/16bit_flat/lenny_spin2.png"
    },
    {
     "n": "land",
     "w": 193,
     "h": 107,
-    "painted": "../sprites/painted/lenny/land.png",
-    "bit16": "../sprites/16bit/lenny/land.png"
+    "painted": "../sprites/painted_flat/lenny_land.png",
+    "bit16": "../sprites/16bit_flat/lenny_land.png"
    },
    {
     "n": "hurt",
     "w": 95,
     "h": 157,
-    "painted": "../sprites/painted/lenny/hurt.png",
-    "bit16": "../sprites/16bit/lenny/hurt.png"
+    "painted": "../sprites/painted_flat/lenny_hurt.png",
+    "bit16": "../sprites/16bit_flat/lenny_hurt.png"
    },
    {
     "n": "down",
     "w": 158,
     "h": 56,
-    "painted": "../sprites/painted/lenny/down.png",
-    "bit16": "../sprites/16bit/lenny/down.png"
+    "painted": "../sprites/painted_flat/lenny_down.png",
+    "bit16": "../sprites/16bit_flat/lenny_down.png"
    }
   ]
  },
@@ -87,64 +87,64 @@
     "n": "idle",
     "w": 99,
     "h": 150,
-    "painted": "../sprites/painted/rafe/idle.png",
-    "bit16": "../sprites/16bit/rafe/idle.png"
+    "painted": "../sprites/painted_flat/rafe_idle.png",
+    "bit16": "../sprites/16bit_flat/rafe_idle.png"
    },
    {
     "n": "walk",
     "w": 110,
     "h": 152,
-    "painted": "../sprites/painted/rafe/walk.png",
-    "bit16": "../sprites/16bit/rafe/walk.png"
+    "painted": "../sprites/painted_flat/rafe_walk.png",
+    "bit16": "../sprites/16bit_flat/rafe_walk.png"
    },
    {
     "n": "attack",
     "w": 169,
     "h": 137,
-    "painted": "../sprites/painted/rafe/attack.png",
-    "bit16": "../sprites/16bit/rafe/attack.png"
+    "painted": "../sprites/painted_flat/rafe_attack.png",
+    "bit16": "../sprites/16bit_flat/rafe_attack.png"
    },
    {
     "n": "jump",
     "w": 164,
     "h": 141,
-    "painted": "../sprites/painted/rafe/jump.png",
-    "bit16": "../sprites/16bit/rafe/jump.png"
+    "painted": "../sprites/painted_flat/rafe_jump.png",
+    "bit16": "../sprites/16bit_flat/rafe_jump.png"
    },
    {
     "n": "dive1",
     "w": 217,
     "h": 95,
-    "painted": "../sprites/painted/rafe/dive1.png",
-    "bit16": "../sprites/16bit/rafe/dive1.png"
+    "painted": "../sprites/painted_flat/rafe_dive1.png",
+    "bit16": "../sprites/16bit_flat/rafe_dive1.png"
    },
    {
     "n": "dive2",
     "w": 248,
     "h": 77,
-    "painted": "../sprites/painted/rafe/dive2.png",
-    "bit16": "../sprites/16bit/rafe/dive2.png"
+    "painted": "../sprites/painted_flat/rafe_dive2.png",
+    "bit16": "../sprites/16bit_flat/rafe_dive2.png"
    },
    {
     "n": "land",
     "w": 124,
     "h": 116,
-    "painted": "../sprites/painted/rafe/land.png",
-    "bit16": "../sprites/16bit/rafe/land.png"
+    "painted": "../sprites/painted_flat/rafe_land.png",
+    "bit16": "../sprites/16bit_flat/rafe_land.png"
    },
    {
     "n": "hurt",
     "w": 109,
     "h": 99,
-    "painted": "../sprites/painted/rafe/hurt.png",
-    "bit16": "../sprites/16bit/rafe/hurt.png"
+    "painted": "../sprites/painted_flat/rafe_hurt.png",
+    "bit16": "../sprites/16bit_flat/rafe_hurt.png"
    },
    {
     "n": "down",
     "w": 127,
     "h": 39,
-    "painted": "../sprites/painted/rafe/down.png",
-    "bit16": "../sprites/16bit/rafe/down.png"
+    "painted": "../sprites/painted_flat/rafe_down.png",
+    "bit16": "../sprites/16bit_flat/rafe_down.png"
    }
   ]
  },
@@ -158,64 +158,64 @@
     "n": "idle",
     "w": 97,
     "h": 150,
-    "painted": "../sprites/painted/miko/idle.png",
-    "bit16": "../sprites/16bit/miko/idle.png"
+    "painted": "../sprites/painted_flat/miko_idle.png",
+    "bit16": "../sprites/16bit_flat/miko_idle.png"
    },
    {
     "n": "walk",
     "w": 99,
     "h": 156,
-    "painted": "../sprites/painted/miko/walk.png",
-    "bit16": "../sprites/16bit/miko/walk.png"
+    "painted": "../sprites/painted_flat/miko_walk.png",
+    "bit16": "../sprites/16bit_flat/miko_walk.png"
    },
    {
     "n": "attack",
     "w": 125,
     "h": 173,
-    "painted": "../sprites/painted/miko/attack.png",
-    "bit16": "../sprites/16bit/miko/attack.png"
+    "painted": "../sprites/painted_flat/miko_attack.png",
+    "bit16": "../sprites/16bit_flat/miko_attack.png"
    },
    {
     "n": "jump",
     "w": 77,
     "h": 149,
-    "painted": "../sprites/painted/miko/jump.png",
-    "bit16": "../sprites/16bit/miko/jump.png"
+    "painted": "../sprites/painted_flat/miko_jump.png",
+    "bit16": "../sprites/16bit_flat/miko_jump.png"
    },
    {
     "n": "copter1",
     "w": 145,
     "h": 157,
-    "painted": "../sprites/painted/miko/copter1.png",
-    "bit16": "../sprites/16bit/miko/copter1.png"
+    "painted": "../sprites/painted_flat/miko_copter1.png",
+    "bit16": "../sprites/16bit_flat/miko_copter1.png"
    },
    {
     "n": "copter2",
     "w": 146,
     "h": 164,
-    "painted": "../sprites/painted/miko/copter2.png",
-    "bit16": "../sprites/16bit/miko/copter2.png"
+    "painted": "../sprites/painted_flat/miko_copter2.png",
+    "bit16": "../sprites/16bit_flat/miko_copter2.png"
    },
    {
     "n": "land",
     "w": 156,
     "h": 140,
-    "painted": "../sprites/painted/miko/land.png",
-    "bit16": "../sprites/16bit/miko/land.png"
+    "painted": "../sprites/painted_flat/miko_land.png",
+    "bit16": "../sprites/16bit_flat/miko_land.png"
    },
    {
     "n": "hurt",
     "w": 91,
     "h": 166,
-    "painted": "../sprites/painted/miko/hurt.png",
-    "bit16": "../sprites/16bit/miko/hurt.png"
+    "painted": "../sprites/painted_flat/miko_hurt.png",
+    "bit16": "../sprites/16bit_flat/miko_hurt.png"
    },
    {
     "n": "down",
     "w": 147,
     "h": 43,
-    "painted": "../sprites/painted/miko/down.png",
-    "bit16": "../sprites/16bit/miko/down.png"
+    "painted": "../sprites/painted_flat/miko_down.png",
+    "bit16": "../sprites/16bit_flat/miko_down.png"
    }
   ]
  },
@@ -229,64 +229,64 @@
     "n": "idle",
     "w": 154,
     "h": 150,
-    "painted": "../sprites/painted/donny/idle.png",
-    "bit16": "../sprites/16bit/donny/idle.png"
+    "painted": "../sprites/painted_flat/donny_idle.png",
+    "bit16": "../sprites/16bit_flat/donny_idle.png"
    },
    {
     "n": "walk",
     "w": 94,
     "h": 170,
-    "painted": "../sprites/painted/donny/walk.png",
-    "bit16": "../sprites/16bit/donny/walk.png"
+    "painted": "../sprites/painted_flat/donny_walk.png",
+    "bit16": "../sprites/16bit_flat/donny_walk.png"
    },
    {
     "n": "attack",
     "w": 150,
     "h": 149,
-    "painted": "../sprites/painted/donny/attack.png",
-    "bit16": "../sprites/16bit/donny/attack.png"
+    "painted": "../sprites/painted_flat/donny_attack.png",
+    "bit16": "../sprites/16bit_flat/donny_attack.png"
    },
    {
     "n": "jump",
     "w": 131,
     "h": 182,
-    "painted": "../sprites/painted/donny/jump.png",
-    "bit16": "../sprites/16bit/donny/jump.png"
+    "painted": "../sprites/painted_flat/donny_jump.png",
+    "bit16": "../sprites/16bit_flat/donny_jump.png"
    },
    {
     "n": "vault",
     "w": 138,
     "h": 178,
-    "painted": "../sprites/painted/donny/vault.png",
-    "bit16": "../sprites/16bit/donny/vault.png"
+    "painted": "../sprites/painted_flat/donny_vault.png",
+    "bit16": "../sprites/16bit_flat/donny_vault.png"
    },
    {
     "n": "flip",
     "w": 216,
     "h": 86,
-    "painted": "../sprites/painted/donny/flip.png",
-    "bit16": "../sprites/16bit/donny/flip.png"
+    "painted": "../sprites/painted_flat/donny_flip.png",
+    "bit16": "../sprites/16bit_flat/donny_flip.png"
    },
    {
     "n": "slam",
     "w": 261,
     "h": 141,
-    "painted": "../sprites/painted/donny/slam.png",
-    "bit16": "../sprites/16bit/donny/slam.png"
+    "painted": "../sprites/painted_flat/donny_slam.png",
+    "bit16": "../sprites/16bit_flat/donny_slam.png"
    },
    {
     "n": "hurt",
     "w": 101,
     "h": 143,
-    "painted": "../sprites/painted/donny/hurt.png",
-    "bit16": "../sprites/16bit/donny/hurt.png"
+    "painted": "../sprites/painted_flat/donny_hurt.png",
+    "bit16": "../sprites/16bit_flat/donny_hurt.png"
    },
    {
     "n": "down",
     "w": 159,
     "h": 59,
-    "painted": "../sprites/painted/donny/down.png",
-    "bit16": "../sprites/16bit/donny/down.png"
+    "painted": "../sprites/painted_flat/donny_down.png",
+    "bit16": "../sprites/16bit_flat/donny_down.png"
    }
   ]
  },
@@ -300,50 +300,50 @@
     "n": "idle",
     "w": 117,
     "h": 190,
-    "painted": "../sprites/painted/ramrod/idle.png",
-    "bit16": "../sprites/16bit/ramrod/idle.png"
+    "painted": "../sprites/painted_flat/ramrod_idle.png",
+    "bit16": "../sprites/16bit_flat/ramrod_idle.png"
    },
    {
     "n": "walk",
     "w": 127,
     "h": 186,
-    "painted": "../sprites/painted/ramrod/walk.png",
-    "bit16": "../sprites/16bit/ramrod/walk.png"
+    "painted": "../sprites/painted_flat/ramrod_walk.png",
+    "bit16": "../sprites/16bit_flat/ramrod_walk.png"
    },
    {
     "n": "charge",
     "w": 161,
     "h": 166,
-    "painted": "../sprites/painted/ramrod/charge.png",
-    "bit16": "../sprites/16bit/ramrod/charge.png"
+    "painted": "../sprites/painted_flat/ramrod_charge.png",
+    "bit16": "../sprites/16bit_flat/ramrod_charge.png"
    },
    {
     "n": "kick",
     "w": 153,
     "h": 186,
-    "painted": "../sprites/painted/ramrod/kick.png",
-    "bit16": "../sprites/16bit/ramrod/kick.png"
+    "painted": "../sprites/painted_flat/ramrod_kick.png",
+    "bit16": "../sprites/16bit_flat/ramrod_kick.png"
    },
    {
     "n": "fire",
     "w": 157,
     "h": 183,
-    "painted": "../sprites/painted/ramrod/fire.png",
-    "bit16": "../sprites/16bit/ramrod/fire.png"
+    "painted": "../sprites/painted_flat/ramrod_fire.png",
+    "bit16": "../sprites/16bit_flat/ramrod_fire.png"
    },
    {
     "n": "hurt",
     "w": 132,
     "h": 177,
-    "painted": "../sprites/painted/ramrod/hurt.png",
-    "bit16": "../sprites/16bit/ramrod/hurt.png"
+    "painted": "../sprites/painted_flat/ramrod_hurt.png",
+    "bit16": "../sprites/16bit_flat/ramrod_hurt.png"
    },
    {
     "n": "down",
     "w": 196,
     "h": 64,
-    "painted": "../sprites/painted/ramrod/down.png",
-    "bit16": "../sprites/16bit/ramrod/down.png"
+    "painted": "../sprites/painted_flat/ramrod_down.png",
+    "bit16": "../sprites/16bit_flat/ramrod_down.png"
    }
   ]
  },
@@ -357,36 +357,36 @@
     "n": "idle",
     "w": 116,
     "h": 130,
-    "painted": "../sprites/painted/zap/idle.png",
-    "bit16": "../sprites/16bit/zap/idle.png"
+    "painted": "../sprites/painted_flat/zap_idle.png",
+    "bit16": "../sprites/16bit_flat/zap_idle.png"
    },
    {
     "n": "roll",
     "w": 117,
     "h": 131,
-    "painted": "../sprites/painted/zap/roll.png",
-    "bit16": "../sprites/16bit/zap/roll.png"
+    "painted": "../sprites/painted_flat/zap_roll.png",
+    "bit16": "../sprites/16bit_flat/zap_roll.png"
    },
    {
     "n": "charge",
     "w": 117,
     "h": 129,
-    "painted": "../sprites/painted/zap/charge.png",
-    "bit16": "../sprites/16bit/zap/charge.png"
+    "painted": "../sprites/painted_flat/zap_charge.png",
+    "bit16": "../sprites/16bit_flat/zap_charge.png"
    },
    {
     "n": "ram",
     "w": 117,
     "h": 131,
-    "painted": "../sprites/painted/zap/ram.png",
-    "bit16": "../sprites/16bit/zap/ram.png"
+    "painted": "../sprites/painted_flat/zap_ram.png",
+    "bit16": "../sprites/16bit_flat/zap_ram.png"
    },
    {
     "n": "dying",
     "w": 111,
     "h": 128,
-    "painted": "../sprites/painted/zap/dying.png",
-    "bit16": "../sprites/16bit/zap/dying.png"
+    "painted": "../sprites/painted_flat/zap_dying.png",
+    "bit16": "../sprites/16bit_flat/zap_dying.png"
    }
   ]
  },
@@ -400,106 +400,106 @@
     "n": "idle",
     "w": 144,
     "h": 190,
-    "painted": "../sprites/painted/scorcher/idle.png",
-    "bit16": "../sprites/16bit/scorcher/idle.png"
+    "painted": "../sprites/painted_flat/scorcher_idle.png",
+    "bit16": "../sprites/16bit_flat/scorcher_idle.png"
    },
    {
     "n": "walk1",
     "w": 137,
     "h": 190,
-    "painted": "../sprites/painted/scorcher/walk1.png",
-    "bit16": "../sprites/16bit/scorcher/walk1.png"
+    "painted": "../sprites/painted_flat/scorcher_walk1.png",
+    "bit16": "../sprites/16bit_flat/scorcher_walk1.png"
    },
    {
     "n": "walk2",
     "w": 149,
     "h": 190,
-    "painted": "../sprites/painted/scorcher/walk2.png",
-    "bit16": "../sprites/16bit/scorcher/walk2.png"
+    "painted": "../sprites/painted_flat/scorcher_walk2.png",
+    "bit16": "../sprites/16bit_flat/scorcher_walk2.png"
    },
    {
     "n": "tele",
     "w": 149,
     "h": 166,
-    "painted": "../sprites/painted/scorcher/tele.png",
-    "bit16": "../sprites/16bit/scorcher/tele.png"
+    "painted": "../sprites/painted_flat/scorcher_tele.png",
+    "bit16": "../sprites/16bit_flat/scorcher_tele.png"
    },
    {
     "n": "charge",
     "w": 168,
     "h": 173,
-    "painted": "../sprites/painted/scorcher/charge.png",
-    "bit16": "../sprites/16bit/scorcher/charge.png"
+    "painted": "../sprites/painted_flat/scorcher_charge.png",
+    "bit16": "../sprites/16bit_flat/scorcher_charge.png"
    },
    {
     "n": "kwind",
     "w": 140,
     "h": 182,
-    "painted": "../sprites/painted/scorcher/kwind.png",
-    "bit16": "../sprites/16bit/scorcher/kwind.png"
+    "painted": "../sprites/painted_flat/scorcher_kwind.png",
+    "bit16": "../sprites/16bit_flat/scorcher_kwind.png"
    },
    {
     "n": "kick",
     "w": 155,
     "h": 181,
-    "painted": "../sprites/painted/scorcher/kick.png",
-    "bit16": "../sprites/16bit/scorcher/kick.png"
+    "painted": "../sprites/painted_flat/scorcher_kick.png",
+    "bit16": "../sprites/16bit_flat/scorcher_kick.png"
    },
    {
     "n": "throw1",
     "w": 125,
     "h": 172,
-    "painted": "../sprites/painted/scorcher/throw1.png",
-    "bit16": "../sprites/16bit/scorcher/throw1.png"
+    "painted": "../sprites/painted_flat/scorcher_throw1.png",
+    "bit16": "../sprites/16bit_flat/scorcher_throw1.png"
    },
    {
     "n": "throw2",
     "w": 144,
     "h": 182,
-    "painted": "../sprites/painted/scorcher/throw2.png",
-    "bit16": "../sprites/16bit/scorcher/throw2.png"
+    "painted": "../sprites/painted_flat/scorcher_throw2.png",
+    "bit16": "../sprites/16bit_flat/scorcher_throw2.png"
    },
    {
     "n": "release",
     "w": 158,
     "h": 170,
-    "painted": "../sprites/painted/scorcher/release.png",
-    "bit16": "../sprites/16bit/scorcher/release.png"
+    "painted": "../sprites/painted_flat/scorcher_release.png",
+    "bit16": "../sprites/16bit_flat/scorcher_release.png"
    },
    {
     "n": "hurt",
     "w": 157,
     "h": 166,
-    "painted": "../sprites/painted/scorcher/hurt.png",
-    "bit16": "../sprites/16bit/scorcher/hurt.png"
+    "painted": "../sprites/painted_flat/scorcher_hurt.png",
+    "bit16": "../sprites/16bit_flat/scorcher_hurt.png"
    },
    {
     "n": "down",
     "w": 285,
     "h": 70,
-    "painted": "../sprites/painted/scorcher/down.png",
-    "bit16": "../sprites/16bit/scorcher/down.png"
+    "painted": "../sprites/painted_flat/scorcher_down.png",
+    "bit16": "../sprites/16bit_flat/scorcher_down.png"
    },
    {
     "n": "getup1",
     "w": 152,
     "h": 145,
-    "painted": "../sprites/painted/scorcher/getup1.png",
-    "bit16": "../sprites/16bit/scorcher/getup1.png"
+    "painted": "../sprites/painted_flat/scorcher_getup1.png",
+    "bit16": "../sprites/16bit_flat/scorcher_getup1.png"
    },
    {
     "n": "getup2",
     "w": 137,
     "h": 146,
-    "painted": "../sprites/painted/scorcher/getup2.png",
-    "bit16": "../sprites/16bit/scorcher/getup2.png"
+    "painted": "../sprites/painted_flat/scorcher_getup2.png",
+    "bit16": "../sprites/16bit_flat/scorcher_getup2.png"
    },
    {
     "n": "daze",
     "w": 135,
     "h": 170,
-    "painted": "../sprites/painted/scorcher/daze.png",
-    "bit16": "../sprites/16bit/scorcher/daze.png"
+    "painted": "../sprites/painted_flat/scorcher_daze.png",
+    "bit16": "../sprites/16bit_flat/scorcher_daze.png"
    }
   ]
  },
@@ -513,22 +513,22 @@
     "n": "idle",
     "w": 86,
     "h": 170,
-    "painted": "../sprites/painted/razorback-lv1/idle.png",
-    "bit16": "../sprites/16bit/razorback-lv1/idle.png"
+    "painted": "../sprites/painted_flat/razorback-lv1_idle.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv1_idle.png"
    },
    {
     "n": "grab",
     "w": 108,
     "h": 151,
-    "painted": "../sprites/painted/razorback-lv1/grab.png",
-    "bit16": "../sprites/16bit/razorback-lv1/grab.png"
+    "painted": "../sprites/painted_flat/razorback-lv1_grab.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv1_grab.png"
    },
    {
     "n": "leap",
     "w": 109,
     "h": 159,
-    "painted": "../sprites/painted/razorback-lv1/leap.png",
-    "bit16": "../sprites/16bit/razorback-lv1/leap.png"
+    "painted": "../sprites/painted_flat/razorback-lv1_leap.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv1_leap.png"
    }
   ]
  },
@@ -542,99 +542,99 @@
     "n": "idle",
     "w": 118,
     "h": 180,
-    "painted": "../sprites/painted/brickjaw/idle.png",
-    "bit16": "../sprites/16bit/brickjaw/idle.png"
+    "painted": "../sprites/painted_flat/brickjaw_idle.png",
+    "bit16": "../sprites/16bit_flat/brickjaw_idle.png"
    },
    {
     "n": "walk1",
     "w": 108,
     "h": 181,
-    "painted": "../sprites/painted/brickjaw/walk1.png",
-    "bit16": "../sprites/16bit/brickjaw/walk1.png"
+    "painted": "../sprites/painted_flat/brickjaw_walk1.png",
+    "bit16": "../sprites/16bit_flat/brickjaw_walk1.png"
    },
    {
     "n": "walk2",
     "w": 123,
     "h": 177,
-    "painted": "../sprites/painted/brickjaw/walk2.png",
-    "bit16": "../sprites/16bit/brickjaw/walk2.png"
+    "painted": "../sprites/painted_flat/brickjaw_walk2.png",
+    "bit16": "../sprites/16bit_flat/brickjaw_walk2.png"
    },
    {
     "n": "wind",
     "w": 141,
     "h": 179,
-    "painted": "../sprites/painted/brickjaw/wind.png",
-    "bit16": "../sprites/16bit/brickjaw/wind.png"
+    "painted": "../sprites/painted_flat/brickjaw_wind.png",
+    "bit16": "../sprites/16bit_flat/brickjaw_wind.png"
    },
    {
     "n": "punch",
     "w": 144,
     "h": 177,
-    "painted": "../sprites/painted/brickjaw/punch.png",
-    "bit16": "../sprites/16bit/brickjaw/punch.png"
+    "painted": "../sprites/painted_flat/brickjaw_punch.png",
+    "bit16": "../sprites/16bit_flat/brickjaw_punch.png"
    },
    {
     "n": "tele",
     "w": 107,
     "h": 158,
-    "painted": "../sprites/painted/brickjaw/tele.png",
-    "bit16": "../sprites/16bit/brickjaw/tele.png"
+    "painted": "../sprites/painted_flat/brickjaw_tele.png",
+    "bit16": "../sprites/16bit_flat/brickjaw_tele.png"
    },
    {
     "n": "charge",
     "w": 124,
     "h": 167,
-    "painted": "../sprites/painted/brickjaw/charge.png",
-    "bit16": "../sprites/16bit/brickjaw/charge.png"
+    "painted": "../sprites/painted_flat/brickjaw_charge.png",
+    "bit16": "../sprites/16bit_flat/brickjaw_charge.png"
    },
    {
     "n": "throwUp",
     "w": 103,
     "h": 181,
-    "painted": "../sprites/painted/brickjaw/throwUp.png",
-    "bit16": "../sprites/16bit/brickjaw/throwUp.png"
+    "painted": "../sprites/painted_flat/brickjaw_throwUp.png",
+    "bit16": "../sprites/16bit_flat/brickjaw_throwUp.png"
    },
    {
     "n": "throwRel",
     "w": 133,
     "h": 166,
-    "painted": "../sprites/painted/brickjaw/throwRel.png",
-    "bit16": "../sprites/16bit/brickjaw/throwRel.png"
+    "painted": "../sprites/painted_flat/brickjaw_throwRel.png",
+    "bit16": "../sprites/16bit_flat/brickjaw_throwRel.png"
    },
    {
     "n": "summon",
     "w": 105,
     "h": 178,
-    "painted": "../sprites/painted/brickjaw/summon.png",
-    "bit16": "../sprites/16bit/brickjaw/summon.png"
+    "painted": "../sprites/painted_flat/brickjaw_summon.png",
+    "bit16": "../sprites/16bit_flat/brickjaw_summon.png"
    },
    {
     "n": "hurt",
     "w": 162,
     "h": 178,
-    "painted": "../sprites/painted/brickjaw/hurt.png",
-    "bit16": "../sprites/16bit/brickjaw/hurt.png"
+    "painted": "../sprites/painted_flat/brickjaw_hurt.png",
+    "bit16": "../sprites/16bit_flat/brickjaw_hurt.png"
    },
    {
     "n": "fall",
     "w": 154,
     "h": 161,
-    "painted": "../sprites/painted/brickjaw/fall.png",
-    "bit16": "../sprites/16bit/brickjaw/fall.png"
+    "painted": "../sprites/painted_flat/brickjaw_fall.png",
+    "bit16": "../sprites/16bit_flat/brickjaw_fall.png"
    },
    {
     "n": "down",
     "w": 206,
     "h": 60,
-    "painted": "../sprites/painted/brickjaw/down.png",
-    "bit16": "../sprites/16bit/brickjaw/down.png"
+    "painted": "../sprites/painted_flat/brickjaw_down.png",
+    "bit16": "../sprites/16bit_flat/brickjaw_down.png"
    },
    {
     "n": "getup",
     "w": 138,
     "h": 142,
-    "painted": "../sprites/painted/brickjaw/getup.png",
-    "bit16": "../sprites/16bit/brickjaw/getup.png"
+    "painted": "../sprites/painted_flat/brickjaw_getup.png",
+    "bit16": "../sprites/16bit_flat/brickjaw_getup.png"
    }
   ]
  },
@@ -648,127 +648,127 @@
     "n": "idle",
     "w": 137,
     "h": 200,
-    "painted": "../sprites/painted/gulch-gator/idle.png",
-    "bit16": "../sprites/16bit/gulch-gator/idle.png"
+    "painted": "../sprites/painted_flat/gulch-gator_idle.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_idle.png"
    },
    {
     "n": "walk1",
     "w": 151,
     "h": 207,
-    "painted": "../sprites/painted/gulch-gator/walk1.png",
-    "bit16": "../sprites/16bit/gulch-gator/walk1.png"
+    "painted": "../sprites/painted_flat/gulch-gator_walk1.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_walk1.png"
    },
    {
     "n": "walk2",
     "w": 159,
     "h": 204,
-    "painted": "../sprites/painted/gulch-gator/walk2.png",
-    "bit16": "../sprites/16bit/gulch-gator/walk2.png"
+    "painted": "../sprites/painted_flat/gulch-gator_walk2.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_walk2.png"
    },
    {
     "n": "wind",
     "w": 180,
     "h": 203,
-    "painted": "../sprites/painted/gulch-gator/wind.png",
-    "bit16": "../sprites/16bit/gulch-gator/wind.png"
+    "painted": "../sprites/painted_flat/gulch-gator_wind.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_wind.png"
    },
    {
     "n": "punch",
     "w": 231,
     "h": 202,
-    "painted": "../sprites/painted/gulch-gator/punch.png",
-    "bit16": "../sprites/16bit/gulch-gator/punch.png"
+    "painted": "../sprites/painted_flat/gulch-gator_punch.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_punch.png"
    },
    {
     "n": "tele",
     "w": 213,
     "h": 142,
-    "painted": "../sprites/painted/gulch-gator/tele.png",
-    "bit16": "../sprites/16bit/gulch-gator/tele.png"
+    "painted": "../sprites/painted_flat/gulch-gator_tele.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_tele.png"
    },
    {
     "n": "charge",
     "w": 200,
     "h": 169,
-    "painted": "../sprites/painted/gulch-gator/charge.png",
-    "bit16": "../sprites/16bit/gulch-gator/charge.png"
+    "painted": "../sprites/painted_flat/gulch-gator_charge.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_charge.png"
    },
    {
     "n": "throw",
     "w": 162,
     "h": 206,
-    "painted": "../sprites/painted/gulch-gator/throw.png",
-    "bit16": "../sprites/16bit/gulch-gator/throw.png"
+    "painted": "../sprites/painted_flat/gulch-gator_throw.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_throw.png"
    },
    {
     "n": "wave",
     "w": 174,
     "h": 205,
-    "painted": "../sprites/painted/gulch-gator/wave.png",
-    "bit16": "../sprites/16bit/gulch-gator/wave.png"
+    "painted": "../sprites/painted_flat/gulch-gator_wave.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_wave.png"
    },
    {
     "n": "stomp",
     "w": 155,
     "h": 194,
-    "painted": "../sprites/painted/gulch-gator/stomp.png",
-    "bit16": "../sprites/16bit/gulch-gator/stomp.png"
+    "painted": "../sprites/painted_flat/gulch-gator_stomp.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_stomp.png"
    },
    {
     "n": "summon",
     "w": 161,
     "h": 190,
-    "painted": "../sprites/painted/gulch-gator/summon.png",
-    "bit16": "../sprites/16bit/gulch-gator/summon.png"
+    "painted": "../sprites/painted_flat/gulch-gator_summon.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_summon.png"
    },
    {
     "n": "leap",
     "w": 129,
     "h": 178,
-    "painted": "../sprites/painted/gulch-gator/leap.png",
-    "bit16": "../sprites/16bit/gulch-gator/leap.png"
+    "painted": "../sprites/painted_flat/gulch-gator_leap.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_leap.png"
    },
    {
     "n": "surf",
     "w": 208,
     "h": 204,
-    "painted": "../sprites/painted/gulch-gator/surf.png",
-    "bit16": "../sprites/16bit/gulch-gator/surf.png"
+    "painted": "../sprites/painted_flat/gulch-gator_surf.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_surf.png"
    },
    {
     "n": "land",
     "w": 211,
     "h": 140,
-    "painted": "../sprites/painted/gulch-gator/land.png",
-    "bit16": "../sprites/16bit/gulch-gator/land.png"
+    "painted": "../sprites/painted_flat/gulch-gator_land.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_land.png"
    },
    {
     "n": "hurt",
     "w": 140,
     "h": 192,
-    "painted": "../sprites/painted/gulch-gator/hurt.png",
-    "bit16": "../sprites/16bit/gulch-gator/hurt.png"
+    "painted": "../sprites/painted_flat/gulch-gator_hurt.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_hurt.png"
    },
    {
     "n": "fall",
     "w": 155,
     "h": 160,
-    "painted": "../sprites/painted/gulch-gator/fall.png",
-    "bit16": "../sprites/16bit/gulch-gator/fall.png"
+    "painted": "../sprites/painted_flat/gulch-gator_fall.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_fall.png"
    },
    {
     "n": "down",
     "w": 200,
     "h": 61,
-    "painted": "../sprites/painted/gulch-gator/down.png",
-    "bit16": "../sprites/16bit/gulch-gator/down.png"
+    "painted": "../sprites/painted_flat/gulch-gator_down.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_down.png"
    },
    {
     "n": "getup",
     "w": 179,
     "h": 161,
-    "painted": "../sprites/painted/gulch-gator/getup.png",
-    "bit16": "../sprites/16bit/gulch-gator/getup.png"
+    "painted": "../sprites/painted_flat/gulch-gator_getup.png",
+    "bit16": "../sprites/16bit_flat/gulch-gator_getup.png"
    }
   ]
  },
@@ -782,85 +782,85 @@
     "n": "idle",
     "w": 75,
     "h": 190,
-    "painted": "../sprites/painted/jetwash/idle.png",
-    "bit16": "../sprites/16bit/jetwash/idle.png"
+    "painted": "../sprites/painted_flat/jetwash_idle.png",
+    "bit16": "../sprites/16bit_flat/jetwash_idle.png"
    },
    {
     "n": "hover",
     "w": 81,
     "h": 180,
-    "painted": "../sprites/painted/jetwash/hover.png",
-    "bit16": "../sprites/16bit/jetwash/hover.png"
+    "painted": "../sprites/painted_flat/jetwash_hover.png",
+    "bit16": "../sprites/16bit_flat/jetwash_hover.png"
    },
    {
     "n": "glide",
     "w": 93,
     "h": 177,
-    "painted": "../sprites/painted/jetwash/glide.png",
-    "bit16": "../sprites/16bit/jetwash/glide.png"
+    "painted": "../sprites/painted_flat/jetwash_glide.png",
+    "bit16": "../sprites/16bit_flat/jetwash_glide.png"
    },
    {
     "n": "kwind",
     "w": 83,
     "h": 181,
-    "painted": "../sprites/painted/jetwash/kwind.png",
-    "bit16": "../sprites/16bit/jetwash/kwind.png"
+    "painted": "../sprites/painted_flat/jetwash_kwind.png",
+    "bit16": "../sprites/16bit_flat/jetwash_kwind.png"
    },
    {
     "n": "kick",
     "w": 144,
     "h": 168,
-    "painted": "../sprites/painted/jetwash/kick.png",
-    "bit16": "../sprites/16bit/jetwash/kick.png"
+    "painted": "../sprites/painted_flat/jetwash_kick.png",
+    "bit16": "../sprites/16bit_flat/jetwash_kick.png"
    },
    {
     "n": "dive",
     "w": 158,
     "h": 79,
-    "painted": "../sprites/painted/jetwash/dive.png",
-    "bit16": "../sprites/16bit/jetwash/dive.png"
+    "painted": "../sprites/painted_flat/jetwash_dive.png",
+    "bit16": "../sprites/16bit_flat/jetwash_dive.png"
    },
    {
     "n": "bomb",
     "w": 92,
     "h": 179,
-    "painted": "../sprites/painted/jetwash/bomb.png",
-    "bit16": "../sprites/16bit/jetwash/bomb.png"
+    "painted": "../sprites/painted_flat/jetwash_bomb.png",
+    "bit16": "../sprites/16bit_flat/jetwash_bomb.png"
    },
    {
     "n": "fire",
     "w": 126,
     "h": 177,
-    "painted": "../sprites/painted/jetwash/fire.png",
-    "bit16": "../sprites/16bit/jetwash/fire.png"
+    "painted": "../sprites/painted_flat/jetwash_fire.png",
+    "bit16": "../sprites/16bit_flat/jetwash_fire.png"
    },
    {
     "n": "radio",
     "w": 100,
     "h": 178,
-    "painted": "../sprites/painted/jetwash/radio.png",
-    "bit16": "../sprites/16bit/jetwash/radio.png"
+    "painted": "../sprites/painted_flat/jetwash_radio.png",
+    "bit16": "../sprites/16bit_flat/jetwash_radio.png"
    },
    {
     "n": "hurt",
     "w": 112,
     "h": 181,
-    "painted": "../sprites/painted/jetwash/hurt.png",
-    "bit16": "../sprites/16bit/jetwash/hurt.png"
+    "painted": "../sprites/painted_flat/jetwash_hurt.png",
+    "bit16": "../sprites/16bit_flat/jetwash_hurt.png"
    },
    {
     "n": "fall",
     "w": 158,
     "h": 156,
-    "painted": "../sprites/painted/jetwash/fall.png",
-    "bit16": "../sprites/16bit/jetwash/fall.png"
+    "painted": "../sprites/painted_flat/jetwash_fall.png",
+    "bit16": "../sprites/16bit_flat/jetwash_fall.png"
    },
    {
     "n": "down",
     "w": 173,
     "h": 85,
-    "painted": "../sprites/painted/jetwash/down.png",
-    "bit16": "../sprites/16bit/jetwash/down.png"
+    "painted": "../sprites/painted_flat/jetwash_down.png",
+    "bit16": "../sprites/16bit_flat/jetwash_down.png"
    }
   ]
  },
@@ -874,99 +874,99 @@
     "n": "idle",
     "w": 94,
     "h": 200,
-    "painted": "../sprites/painted/grimwale/idle.png",
-    "bit16": "../sprites/16bit/grimwale/idle.png"
+    "painted": "../sprites/painted_flat/grimwale_idle.png",
+    "bit16": "../sprites/16bit_flat/grimwale_idle.png"
    },
    {
     "n": "walk1",
     "w": 93,
     "h": 198,
-    "painted": "../sprites/painted/grimwale/walk1.png",
-    "bit16": "../sprites/16bit/grimwale/walk1.png"
+    "painted": "../sprites/painted_flat/grimwale_walk1.png",
+    "bit16": "../sprites/16bit_flat/grimwale_walk1.png"
    },
    {
     "n": "walk2",
     "w": 97,
     "h": 198,
-    "painted": "../sprites/painted/grimwale/walk2.png",
-    "bit16": "../sprites/16bit/grimwale/walk2.png"
+    "painted": "../sprites/painted_flat/grimwale_walk2.png",
+    "bit16": "../sprites/16bit_flat/grimwale_walk2.png"
    },
    {
     "n": "aim",
     "w": 118,
     "h": 185,
-    "painted": "../sprites/painted/grimwale/aim.png",
-    "bit16": "../sprites/16bit/grimwale/aim.png"
+    "painted": "../sprites/painted_flat/grimwale_aim.png",
+    "bit16": "../sprites/16bit_flat/grimwale_aim.png"
    },
    {
     "n": "aimE",
     "w": 118,
     "h": 185,
-    "painted": "../sprites/painted/grimwale/aimE.png",
-    "bit16": "../sprites/16bit/grimwale/aimE.png"
+    "painted": "../sprites/painted_flat/grimwale_aimE.png",
+    "bit16": "../sprites/16bit_flat/grimwale_aimE.png"
    },
    {
     "n": "whirl",
     "w": 124,
     "h": 182,
-    "painted": "../sprites/painted/grimwale/whirl.png",
-    "bit16": "../sprites/16bit/grimwale/whirl.png"
+    "painted": "../sprites/painted_flat/grimwale_whirl.png",
+    "bit16": "../sprites/16bit_flat/grimwale_whirl.png"
    },
    {
     "n": "bellow",
     "w": 86,
     "h": 194,
-    "painted": "../sprites/painted/grimwale/bellow.png",
-    "bit16": "../sprites/16bit/grimwale/bellow.png"
+    "painted": "../sprites/painted_flat/grimwale_bellow.png",
+    "bit16": "../sprites/16bit_flat/grimwale_bellow.png"
    },
    {
     "n": "kick",
     "w": 106,
     "h": 195,
-    "painted": "../sprites/painted/grimwale/kick.png",
-    "bit16": "../sprites/16bit/grimwale/kick.png"
+    "painted": "../sprites/painted_flat/grimwale_kick.png",
+    "bit16": "../sprites/16bit_flat/grimwale_kick.png"
    },
    {
     "n": "crouch",
     "w": 83,
     "h": 127,
-    "painted": "../sprites/painted/grimwale/crouch.png",
-    "bit16": "../sprites/16bit/grimwale/crouch.png"
+    "painted": "../sprites/painted_flat/grimwale_crouch.png",
+    "bit16": "../sprites/16bit_flat/grimwale_crouch.png"
    },
    {
     "n": "throw",
     "w": 105,
     "h": 197,
-    "painted": "../sprites/painted/grimwale/throw.png",
-    "bit16": "../sprites/16bit/grimwale/throw.png"
+    "painted": "../sprites/painted_flat/grimwale_throw.png",
+    "bit16": "../sprites/16bit_flat/grimwale_throw.png"
    },
    {
     "n": "charge",
     "w": 115,
     "h": 182,
-    "painted": "../sprites/painted/grimwale/charge.png",
-    "bit16": "../sprites/16bit/grimwale/charge.png"
+    "painted": "../sprites/painted_flat/grimwale_charge.png",
+    "bit16": "../sprites/16bit_flat/grimwale_charge.png"
    },
    {
     "n": "sweep",
     "w": 99,
     "h": 187,
-    "painted": "../sprites/painted/grimwale/sweep.png",
-    "bit16": "../sprites/16bit/grimwale/sweep.png"
+    "painted": "../sprites/painted_flat/grimwale_sweep.png",
+    "bit16": "../sprites/16bit_flat/grimwale_sweep.png"
    },
    {
     "n": "hurt",
     "w": 89,
     "h": 195,
-    "painted": "../sprites/painted/grimwale/hurt.png",
-    "bit16": "../sprites/16bit/grimwale/hurt.png"
+    "painted": "../sprites/painted_flat/grimwale_hurt.png",
+    "bit16": "../sprites/16bit_flat/grimwale_hurt.png"
    },
    {
     "n": "down",
     "w": 139,
     "h": 58,
-    "painted": "../sprites/painted/grimwale/down.png",
-    "bit16": "../sprites/16bit/grimwale/down.png"
+    "painted": "../sprites/painted_flat/grimwale_down.png",
+    "bit16": "../sprites/16bit_flat/grimwale_down.png"
    }
   ]
  },
@@ -980,92 +980,92 @@
     "n": "idle",
     "w": 117,
     "h": 172,
-    "painted": "../sprites/painted/cold-front/idle.png",
-    "bit16": "../sprites/16bit/cold-front/idle.png"
+    "painted": "../sprites/painted_flat/cold-front_idle.png",
+    "bit16": "../sprites/16bit_flat/cold-front_idle.png"
    },
    {
     "n": "walk1",
     "w": 120,
     "h": 170,
-    "painted": "../sprites/painted/cold-front/walk1.png",
-    "bit16": "../sprites/16bit/cold-front/walk1.png"
+    "painted": "../sprites/painted_flat/cold-front_walk1.png",
+    "bit16": "../sprites/16bit_flat/cold-front_walk1.png"
    },
    {
     "n": "walk2",
     "w": 113,
     "h": 167,
-    "painted": "../sprites/painted/cold-front/walk2.png",
-    "bit16": "../sprites/16bit/cold-front/walk2.png"
+    "painted": "../sprites/painted_flat/cold-front_walk2.png",
+    "bit16": "../sprites/16bit_flat/cold-front_walk2.png"
    },
    {
     "n": "aim",
     "w": 136,
     "h": 164,
-    "painted": "../sprites/painted/cold-front/aim.png",
-    "bit16": "../sprites/16bit/cold-front/aim.png"
+    "painted": "../sprites/painted_flat/cold-front_aim.png",
+    "bit16": "../sprites/16bit_flat/cold-front_aim.png"
    },
    {
     "n": "throw",
     "w": 136,
     "h": 163,
-    "painted": "../sprites/painted/cold-front/throw.png",
-    "bit16": "../sprites/16bit/cold-front/throw.png"
+    "painted": "../sprites/painted_flat/cold-front_throw.png",
+    "bit16": "../sprites/16bit_flat/cold-front_throw.png"
    },
    {
     "n": "kwind",
     "w": 111,
     "h": 175,
-    "painted": "../sprites/painted/cold-front/kwind.png",
-    "bit16": "../sprites/16bit/cold-front/kwind.png"
+    "painted": "../sprites/painted_flat/cold-front_kwind.png",
+    "bit16": "../sprites/16bit_flat/cold-front_kwind.png"
    },
    {
     "n": "kick",
     "w": 164,
     "h": 173,
-    "painted": "../sprites/painted/cold-front/kick.png",
-    "bit16": "../sprites/16bit/cold-front/kick.png"
+    "painted": "../sprites/painted_flat/cold-front_kick.png",
+    "bit16": "../sprites/16bit_flat/cold-front_kick.png"
    },
    {
     "n": "leap",
     "w": 137,
     "h": 171,
-    "painted": "../sprites/painted/cold-front/leap.png",
-    "bit16": "../sprites/16bit/cold-front/leap.png"
+    "painted": "../sprites/painted_flat/cold-front_leap.png",
+    "bit16": "../sprites/16bit_flat/cold-front_leap.png"
    },
    {
     "n": "shout",
     "w": 123,
     "h": 172,
-    "painted": "../sprites/painted/cold-front/shout.png",
-    "bit16": "../sprites/16bit/cold-front/shout.png"
+    "painted": "../sprites/painted_flat/cold-front_shout.png",
+    "bit16": "../sprites/16bit_flat/cold-front_shout.png"
    },
    {
     "n": "spin",
     "w": 165,
     "h": 172,
-    "painted": "../sprites/painted/cold-front/spin.png",
-    "bit16": "../sprites/16bit/cold-front/spin.png"
+    "painted": "../sprites/painted_flat/cold-front_spin.png",
+    "bit16": "../sprites/16bit_flat/cold-front_spin.png"
    },
    {
     "n": "crouch",
     "w": 125,
     "h": 180,
-    "painted": "../sprites/painted/cold-front/crouch.png",
-    "bit16": "../sprites/16bit/cold-front/crouch.png"
+    "painted": "../sprites/painted_flat/cold-front_crouch.png",
+    "bit16": "../sprites/16bit_flat/cold-front_crouch.png"
    },
    {
     "n": "hurt",
     "w": 115,
     "h": 175,
-    "painted": "../sprites/painted/cold-front/hurt.png",
-    "bit16": "../sprites/16bit/cold-front/hurt.png"
+    "painted": "../sprites/painted_flat/cold-front_hurt.png",
+    "bit16": "../sprites/16bit_flat/cold-front_hurt.png"
    },
    {
     "n": "down",
     "w": 183,
     "h": 54,
-    "painted": "../sprites/painted/cold-front/down.png",
-    "bit16": "../sprites/16bit/cold-front/down.png"
+    "painted": "../sprites/painted_flat/cold-front_down.png",
+    "bit16": "../sprites/16bit_flat/cold-front_down.png"
    }
   ]
  },
@@ -1079,99 +1079,99 @@
     "n": "idle",
     "w": 154,
     "h": 200,
-    "painted": "../sprites/painted/rustmaul/idle.png",
-    "bit16": "../sprites/16bit/rustmaul/idle.png"
+    "painted": "../sprites/painted_flat/rustmaul_idle.png",
+    "bit16": "../sprites/16bit_flat/rustmaul_idle.png"
    },
    {
     "n": "walk1",
     "w": 148,
     "h": 200,
-    "painted": "../sprites/painted/rustmaul/walk1.png",
-    "bit16": "../sprites/16bit/rustmaul/walk1.png"
+    "painted": "../sprites/painted_flat/rustmaul_walk1.png",
+    "bit16": "../sprites/16bit_flat/rustmaul_walk1.png"
    },
    {
     "n": "walk2",
     "w": 142,
     "h": 200,
-    "painted": "../sprites/painted/rustmaul/walk2.png",
-    "bit16": "../sprites/16bit/rustmaul/walk2.png"
+    "painted": "../sprites/painted_flat/rustmaul_walk2.png",
+    "bit16": "../sprites/16bit_flat/rustmaul_walk2.png"
    },
    {
     "n": "walk3",
     "w": 147,
     "h": 199,
-    "painted": "../sprites/painted/rustmaul/walk3.png",
-    "bit16": "../sprites/16bit/rustmaul/walk3.png"
+    "painted": "../sprites/painted_flat/rustmaul_walk3.png",
+    "bit16": "../sprites/16bit_flat/rustmaul_walk3.png"
    },
    {
     "n": "rush",
     "w": 150,
     "h": 169,
-    "painted": "../sprites/painted/rustmaul/rush.png",
-    "bit16": "../sprites/16bit/rustmaul/rush.png"
+    "painted": "../sprites/painted_flat/rustmaul_rush.png",
+    "bit16": "../sprites/16bit_flat/rustmaul_rush.png"
    },
    {
     "n": "wind",
     "w": 109,
     "h": 199,
-    "painted": "../sprites/painted/rustmaul/wind.png",
-    "bit16": "../sprites/16bit/rustmaul/wind.png"
+    "painted": "../sprites/painted_flat/rustmaul_wind.png",
+    "bit16": "../sprites/16bit_flat/rustmaul_wind.png"
    },
    {
     "n": "swing",
     "w": 140,
     "h": 186,
-    "painted": "../sprites/painted/rustmaul/swing.png",
-    "bit16": "../sprites/16bit/rustmaul/swing.png"
+    "painted": "../sprites/painted_flat/rustmaul_swing.png",
+    "bit16": "../sprites/16bit_flat/rustmaul_swing.png"
    },
    {
     "n": "throw",
     "w": 136,
     "h": 186,
-    "painted": "../sprites/painted/rustmaul/throw.png",
-    "bit16": "../sprites/16bit/rustmaul/throw.png"
+    "painted": "../sprites/painted_flat/rustmaul_throw.png",
+    "bit16": "../sprites/16bit_flat/rustmaul_throw.png"
    },
    {
     "n": "slamUp",
     "w": 124,
     "h": 236,
-    "painted": "../sprites/painted/rustmaul/slamUp.png",
-    "bit16": "../sprites/16bit/rustmaul/slamUp.png"
+    "painted": "../sprites/painted_flat/rustmaul_slamUp.png",
+    "bit16": "../sprites/16bit_flat/rustmaul_slamUp.png"
    },
    {
     "n": "slamDn",
     "w": 147,
     "h": 161,
-    "painted": "../sprites/painted/rustmaul/slamDn.png",
-    "bit16": "../sprites/16bit/rustmaul/slamDn.png"
+    "painted": "../sprites/painted_flat/rustmaul_slamDn.png",
+    "bit16": "../sprites/16bit_flat/rustmaul_slamDn.png"
    },
    {
     "n": "summon",
     "w": 129,
     "h": 283,
-    "painted": "../sprites/painted/rustmaul/summon.png",
-    "bit16": "../sprites/16bit/rustmaul/summon.png"
+    "painted": "../sprites/painted_flat/rustmaul_summon.png",
+    "bit16": "../sprites/16bit_flat/rustmaul_summon.png"
    },
    {
     "n": "pull",
     "w": 170,
     "h": 195,
-    "painted": "../sprites/painted/rustmaul/pull.png",
-    "bit16": "../sprites/16bit/rustmaul/pull.png"
+    "painted": "../sprites/painted_flat/rustmaul_pull.png",
+    "bit16": "../sprites/16bit_flat/rustmaul_pull.png"
    },
    {
     "n": "hurt",
     "w": 127,
     "h": 199,
-    "painted": "../sprites/painted/rustmaul/hurt.png",
-    "bit16": "../sprites/16bit/rustmaul/hurt.png"
+    "painted": "../sprites/painted_flat/rustmaul_hurt.png",
+    "bit16": "../sprites/16bit_flat/rustmaul_hurt.png"
    },
    {
     "n": "down",
     "w": 192,
     "h": 65,
-    "painted": "../sprites/painted/rustmaul/down.png",
-    "bit16": "../sprites/16bit/rustmaul/down.png"
+    "painted": "../sprites/painted_flat/rustmaul_down.png",
+    "bit16": "../sprites/16bit_flat/rustmaul_down.png"
    }
   ]
  },
@@ -1185,113 +1185,113 @@
     "n": "idle",
     "w": 100,
     "h": 190,
-    "painted": "../sprites/painted/razorback-lv8/idle.png",
-    "bit16": "../sprites/16bit/razorback-lv8/idle.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_idle.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_idle.png"
    },
    {
     "n": "walk1",
     "w": 87,
     "h": 188,
-    "painted": "../sprites/painted/razorback-lv8/walk1.png",
-    "bit16": "../sprites/16bit/razorback-lv8/walk1.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_walk1.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_walk1.png"
    },
    {
     "n": "walk2",
     "w": 104,
     "h": 184,
-    "painted": "../sprites/painted/razorback-lv8/walk2.png",
-    "bit16": "../sprites/16bit/razorback-lv8/walk2.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_walk2.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_walk2.png"
    },
    {
     "n": "guard",
     "w": 128,
     "h": 180,
-    "painted": "../sprites/painted/razorback-lv8/guard.png",
-    "bit16": "../sprites/16bit/razorback-lv8/guard.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_guard.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_guard.png"
    },
    {
     "n": "wind",
     "w": 133,
     "h": 174,
-    "painted": "../sprites/painted/razorback-lv8/wind.png",
-    "bit16": "../sprites/16bit/razorback-lv8/wind.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_wind.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_wind.png"
    },
    {
     "n": "punch",
     "w": 201,
     "h": 176,
-    "painted": "../sprites/painted/razorback-lv8/punch.png",
-    "bit16": "../sprites/16bit/razorback-lv8/punch.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_punch.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_punch.png"
    },
    {
     "n": "charge",
     "w": 246,
     "h": 172,
-    "painted": "../sprites/painted/razorback-lv8/charge.png",
-    "bit16": "../sprites/16bit/razorback-lv8/charge.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_charge.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_charge.png"
    },
    {
     "n": "leap",
     "w": 158,
     "h": 191,
-    "painted": "../sprites/painted/razorback-lv8/leap.png",
-    "bit16": "../sprites/16bit/razorback-lv8/leap.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_leap.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_leap.png"
    },
    {
     "n": "slam",
     "w": 152,
     "h": 157,
-    "painted": "../sprites/painted/razorback-lv8/slam.png",
-    "bit16": "../sprites/16bit/razorback-lv8/slam.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_slam.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_slam.png"
    },
    {
     "n": "throw",
     "w": 204,
     "h": 184,
-    "painted": "../sprites/painted/razorback-lv8/throw.png",
-    "bit16": "../sprites/16bit/razorback-lv8/throw.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_throw.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_throw.png"
    },
    {
     "n": "fire",
     "w": 193,
     "h": 176,
-    "painted": "../sprites/painted/razorback-lv8/fire.png",
-    "bit16": "../sprites/16bit/razorback-lv8/fire.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_fire.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_fire.png"
    },
    {
     "n": "summon",
     "w": 242,
     "h": 191,
-    "painted": "../sprites/painted/razorback-lv8/summon.png",
-    "bit16": "../sprites/16bit/razorback-lv8/summon.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_summon.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_summon.png"
    },
    {
     "n": "hurt",
     "w": 144,
     "h": 176,
-    "painted": "../sprites/painted/razorback-lv8/hurt.png",
-    "bit16": "../sprites/16bit/razorback-lv8/hurt.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_hurt.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_hurt.png"
    },
    {
     "n": "down",
     "w": 224,
     "h": 78,
-    "painted": "../sprites/painted/razorback-lv8/down.png",
-    "bit16": "../sprites/16bit/razorback-lv8/down.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_down.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_down.png"
    },
    {
     "n": "ko",
     "w": 233,
     "h": 76,
-    "painted": "../sprites/painted/razorback-lv8/ko.png",
-    "bit16": "../sprites/16bit/razorback-lv8/ko.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_ko.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_ko.png"
    },
    {
     "n": "getup",
     "w": 149,
     "h": 141,
-    "painted": "../sprites/painted/razorback-lv8/getup.png",
-    "bit16": "../sprites/16bit/razorback-lv8/getup.png"
+    "painted": "../sprites/painted_flat/razorback-lv8_getup.png",
+    "bit16": "../sprites/16bit_flat/razorback-lv8_getup.png"
    }
   ]
  },
@@ -1305,43 +1305,43 @@
     "n": "idle",
     "w": 128,
     "h": 179,
-    "painted": "../sprites/painted/karai/idle.png",
-    "bit16": "../sprites/16bit/karai/idle.png"
+    "painted": "../sprites/painted_flat/karai_idle.png",
+    "bit16": "../sprites/16bit_flat/karai_idle.png"
    },
    {
     "n": "walk",
     "w": 94,
     "h": 188,
-    "painted": "../sprites/painted/karai/walk.png",
-    "bit16": "../sprites/16bit/karai/walk.png"
+    "painted": "../sprites/painted_flat/karai_walk.png",
+    "bit16": "../sprites/16bit_flat/karai_walk.png"
    },
    {
     "n": "slash",
     "w": 165,
     "h": 175,
-    "painted": "../sprites/painted/karai/slash.png",
-    "bit16": "../sprites/16bit/karai/slash.png"
+    "painted": "../sprites/painted_flat/karai_slash.png",
+    "bit16": "../sprites/16bit_flat/karai_slash.png"
    },
    {
     "n": "throw",
     "w": 144,
     "h": 192,
-    "painted": "../sprites/painted/karai/throw.png",
-    "bit16": "../sprites/16bit/karai/throw.png"
+    "painted": "../sprites/painted_flat/karai_throw.png",
+    "bit16": "../sprites/16bit_flat/karai_throw.png"
    },
    {
     "n": "hurt",
     "w": 135,
     "h": 122,
-    "painted": "../sprites/painted/karai/hurt.png",
-    "bit16": "../sprites/16bit/karai/hurt.png"
+    "painted": "../sprites/painted_flat/karai_hurt.png",
+    "bit16": "../sprites/16bit_flat/karai_hurt.png"
    },
    {
     "n": "down",
     "w": 194,
     "h": 38,
-    "painted": "../sprites/painted/karai/down.png",
-    "bit16": "../sprites/16bit/karai/down.png"
+    "painted": "../sprites/painted_flat/karai_down.png",
+    "bit16": "../sprites/16bit_flat/karai_down.png"
    }
   ]
  },
@@ -1355,64 +1355,64 @@
     "n": "idle",
     "w": 219,
     "h": 249,
-    "painted": "../sprites/painted/armaggon/idle.png",
-    "bit16": "../sprites/16bit/armaggon/idle.png"
+    "painted": "../sprites/painted_flat/armaggon_idle.png",
+    "bit16": "../sprites/16bit_flat/armaggon_idle.png"
    },
    {
     "n": "idle2",
     "w": 233,
     "h": 242,
-    "painted": "../sprites/painted/armaggon/idle2.png",
-    "bit16": "../sprites/16bit/armaggon/idle2.png"
+    "painted": "../sprites/painted_flat/armaggon_idle2.png",
+    "bit16": "../sprites/16bit_flat/armaggon_idle2.png"
    },
    {
     "n": "walk",
     "w": 227,
     "h": 250,
-    "painted": "../sprites/painted/armaggon/walk.png",
-    "bit16": "../sprites/16bit/armaggon/walk.png"
+    "painted": "../sprites/painted_flat/armaggon_walk.png",
+    "bit16": "../sprites/16bit_flat/armaggon_walk.png"
    },
    {
     "n": "bite",
     "w": 296,
     "h": 250,
-    "painted": "../sprites/painted/armaggon/bite.png",
-    "bit16": "../sprites/16bit/armaggon/bite.png"
+    "painted": "../sprites/painted_flat/armaggon_bite.png",
+    "bit16": "../sprites/16bit_flat/armaggon_bite.png"
    },
    {
     "n": "fire",
     "w": 301,
     "h": 243,
-    "painted": "../sprites/painted/armaggon/fire.png",
-    "bit16": "../sprites/16bit/armaggon/fire.png"
+    "painted": "../sprites/painted_flat/armaggon_fire.png",
+    "bit16": "../sprites/16bit_flat/armaggon_fire.png"
    },
    {
     "n": "hurt",
     "w": 239,
     "h": 274,
-    "painted": "../sprites/painted/armaggon/hurt.png",
-    "bit16": "../sprites/16bit/armaggon/hurt.png"
+    "painted": "../sprites/painted_flat/armaggon_hurt.png",
+    "bit16": "../sprites/16bit_flat/armaggon_hurt.png"
    },
    {
     "n": "fall",
     "w": 319,
     "h": 173,
-    "painted": "../sprites/painted/armaggon/fall.png",
-    "bit16": "../sprites/16bit/armaggon/fall.png"
+    "painted": "../sprites/painted_flat/armaggon_fall.png",
+    "bit16": "../sprites/16bit_flat/armaggon_fall.png"
    },
    {
     "n": "lie",
     "w": 346,
     "h": 116,
-    "painted": "../sprites/painted/armaggon/lie.png",
-    "bit16": "../sprites/16bit/armaggon/lie.png"
+    "painted": "../sprites/painted_flat/armaggon_lie.png",
+    "bit16": "../sprites/16bit_flat/armaggon_lie.png"
    },
    {
     "n": "getup",
     "w": 287,
     "h": 173,
-    "painted": "../sprites/painted/armaggon/getup.png",
-    "bit16": "../sprites/16bit/armaggon/getup.png"
+    "painted": "../sprites/painted_flat/armaggon_getup.png",
+    "bit16": "../sprites/16bit_flat/armaggon_getup.png"
    }
   ]
  },
@@ -1426,64 +1426,64 @@
     "n": "idle",
     "w": 227,
     "h": 243,
-    "painted": "../sprites/painted/leatherhead/idle.png",
-    "bit16": "../sprites/16bit/leatherhead/idle.png"
+    "painted": "../sprites/painted_flat/leatherhead_idle.png",
+    "bit16": "../sprites/16bit_flat/leatherhead_idle.png"
    },
    {
     "n": "walk",
     "w": 248,
     "h": 246,
-    "painted": "../sprites/painted/leatherhead/walk.png",
-    "bit16": "../sprites/16bit/leatherhead/walk.png"
+    "painted": "../sprites/painted_flat/leatherhead_walk.png",
+    "bit16": "../sprites/16bit_flat/leatherhead_walk.png"
    },
    {
     "n": "tail",
     "w": 253,
     "h": 212,
-    "painted": "../sprites/painted/leatherhead/tail.png",
-    "bit16": "../sprites/16bit/leatherhead/tail.png"
+    "painted": "../sprites/painted_flat/leatherhead_tail.png",
+    "bit16": "../sprites/16bit_flat/leatherhead_tail.png"
    },
    {
     "n": "chomp",
     "w": 216,
     "h": 221,
-    "painted": "../sprites/painted/leatherhead/chomp.png",
-    "bit16": "../sprites/16bit/leatherhead/chomp.png"
+    "painted": "../sprites/painted_flat/leatherhead_chomp.png",
+    "bit16": "../sprites/16bit_flat/leatherhead_chomp.png"
    },
    {
     "n": "crate",
     "w": 210,
     "h": 259,
-    "painted": "../sprites/painted/leatherhead/crate.png",
-    "bit16": "../sprites/16bit/leatherhead/crate.png"
+    "painted": "../sprites/painted_flat/leatherhead_crate.png",
+    "bit16": "../sprites/16bit_flat/leatherhead_crate.png"
    },
    {
     "n": "hurt",
     "w": 185,
     "h": 256,
-    "painted": "../sprites/painted/leatherhead/hurt.png",
-    "bit16": "../sprites/16bit/leatherhead/hurt.png"
+    "painted": "../sprites/painted_flat/leatherhead_hurt.png",
+    "bit16": "../sprites/16bit_flat/leatherhead_hurt.png"
    },
    {
     "n": "fall",
     "w": 287,
     "h": 185,
-    "painted": "../sprites/painted/leatherhead/fall.png",
-    "bit16": "../sprites/16bit/leatherhead/fall.png"
+    "painted": "../sprites/painted_flat/leatherhead_fall.png",
+    "bit16": "../sprites/16bit_flat/leatherhead_fall.png"
    },
    {
     "n": "lie",
     "w": 345,
     "h": 131,
-    "painted": "../sprites/painted/leatherhead/lie.png",
-    "bit16": "../sprites/16bit/leatherhead/lie.png"
+    "painted": "../sprites/painted_flat/leatherhead_lie.png",
+    "bit16": "../sprites/16bit_flat/leatherhead_lie.png"
    },
    {
     "n": "getup",
     "w": 290,
     "h": 184,
-    "painted": "../sprites/painted/leatherhead/getup.png",
-    "bit16": "../sprites/16bit/leatherhead/getup.png"
+    "painted": "../sprites/painted_flat/leatherhead_getup.png",
+    "bit16": "../sprites/16bit_flat/leatherhead_getup.png"
    }
   ]
  },
@@ -1497,36 +1497,36 @@
     "n": "idle",
     "w": 90,
     "h": 175,
-    "painted": "../sprites/painted/viral/idle.png",
-    "bit16": "../sprites/16bit/viral/idle.png"
+    "painted": "../sprites/painted_flat/viral_idle.png",
+    "bit16": "../sprites/16bit_flat/viral_idle.png"
    },
    {
     "n": "walk",
     "w": 101,
     "h": 149,
-    "painted": "../sprites/painted/viral/walk.png",
-    "bit16": "../sprites/16bit/viral/walk.png"
+    "painted": "../sprites/painted_flat/viral_walk.png",
+    "bit16": "../sprites/16bit_flat/viral_walk.png"
    },
    {
     "n": "attack",
     "w": 169,
     "h": 162,
-    "painted": "../sprites/painted/viral/attack.png",
-    "bit16": "../sprites/16bit/viral/attack.png"
+    "painted": "../sprites/painted_flat/viral_attack.png",
+    "bit16": "../sprites/16bit_flat/viral_attack.png"
    },
    {
     "n": "hurt",
     "w": 107,
     "h": 150,
-    "painted": "../sprites/painted/viral/hurt.png",
-    "bit16": "../sprites/16bit/viral/hurt.png"
+    "painted": "../sprites/painted_flat/viral_hurt.png",
+    "bit16": "../sprites/16bit_flat/viral_hurt.png"
    },
    {
     "n": "down",
     "w": 171,
     "h": 49,
-    "painted": "../sprites/painted/viral/down.png",
-    "bit16": "../sprites/16bit/viral/down.png"
+    "painted": "../sprites/painted_flat/viral_down.png",
+    "bit16": "../sprites/16bit_flat/viral_down.png"
    }
   ]
  },
@@ -1540,36 +1540,36 @@
     "n": "idle",
     "w": 177,
     "h": 228,
-    "painted": "../sprites/painted/general-traag/idle.png",
-    "bit16": "../sprites/16bit/general-traag/idle.png"
+    "painted": "../sprites/painted_flat/general-traag_idle.png",
+    "bit16": "../sprites/16bit_flat/general-traag_idle.png"
    },
    {
     "n": "walk",
     "w": 174,
     "h": 227,
-    "painted": "../sprites/painted/general-traag/walk.png",
-    "bit16": "../sprites/16bit/general-traag/walk.png"
+    "painted": "../sprites/painted_flat/general-traag_walk.png",
+    "bit16": "../sprites/16bit_flat/general-traag_walk.png"
    },
    {
     "n": "fire",
     "w": 266,
     "h": 227,
-    "painted": "../sprites/painted/general-traag/fire.png",
-    "bit16": "../sprites/16bit/general-traag/fire.png"
+    "painted": "../sprites/painted_flat/general-traag_fire.png",
+    "bit16": "../sprites/16bit_flat/general-traag_fire.png"
    },
    {
     "n": "hurt",
     "w": 212,
     "h": 169,
-    "painted": "../sprites/painted/general-traag/hurt.png",
-    "bit16": "../sprites/16bit/general-traag/hurt.png"
+    "painted": "../sprites/painted_flat/general-traag_hurt.png",
+    "bit16": "../sprites/16bit_flat/general-traag_hurt.png"
    },
    {
     "n": "down",
     "w": 330,
     "h": 100,
-    "painted": "../sprites/painted/general-traag/down.png",
-    "bit16": "../sprites/16bit/general-traag/down.png"
+    "painted": "../sprites/painted_flat/general-traag_down.png",
+    "bit16": "../sprites/16bit_flat/general-traag_down.png"
    }
   ]
  },
@@ -1583,36 +1583,36 @@
     "n": "idle",
     "w": 154,
     "h": 256,
-    "painted": "../sprites/painted/lt-granitor/idle.png",
-    "bit16": "../sprites/16bit/lt-granitor/idle.png"
+    "painted": "../sprites/painted_flat/lt-granitor_idle.png",
+    "bit16": "../sprites/16bit_flat/lt-granitor_idle.png"
    },
    {
     "n": "walk",
     "w": 171,
     "h": 259,
-    "painted": "../sprites/painted/lt-granitor/walk.png",
-    "bit16": "../sprites/16bit/lt-granitor/walk.png"
+    "painted": "../sprites/painted_flat/lt-granitor_walk.png",
+    "bit16": "../sprites/16bit_flat/lt-granitor_walk.png"
    },
    {
     "n": "leap",
     "w": 180,
     "h": 332,
-    "painted": "../sprites/painted/lt-granitor/leap.png",
-    "bit16": "../sprites/16bit/lt-granitor/leap.png"
+    "painted": "../sprites/painted_flat/lt-granitor_leap.png",
+    "bit16": "../sprites/16bit_flat/lt-granitor_leap.png"
    },
    {
     "n": "hurt",
     "w": 154,
     "h": 251,
-    "painted": "../sprites/painted/lt-granitor/hurt.png",
-    "bit16": "../sprites/16bit/lt-granitor/hurt.png"
+    "painted": "../sprites/painted_flat/lt-granitor_hurt.png",
+    "bit16": "../sprites/16bit_flat/lt-granitor_hurt.png"
    },
    {
     "n": "down",
     "w": 240,
     "h": 89,
-    "painted": "../sprites/painted/lt-granitor/down.png",
-    "bit16": "../sprites/16bit/lt-granitor/down.png"
+    "painted": "../sprites/painted_flat/lt-granitor_down.png",
+    "bit16": "../sprites/16bit_flat/lt-granitor_down.png"
    }
   ]
  },
@@ -1626,106 +1626,106 @@
     "n": "idle",
     "w": 122,
     "h": 192,
-    "painted": "../sprites/painted/krang/idle.png",
-    "bit16": "../sprites/16bit/krang/idle.png"
+    "painted": "../sprites/painted_flat/krang_idle.png",
+    "bit16": "../sprites/16bit_flat/krang_idle.png"
    },
    {
     "n": "walk1",
     "w": 109,
     "h": 192,
-    "painted": "../sprites/painted/krang/walk1.png",
-    "bit16": "../sprites/16bit/krang/walk1.png"
+    "painted": "../sprites/painted_flat/krang_walk1.png",
+    "bit16": "../sprites/16bit_flat/krang_walk1.png"
    },
    {
     "n": "walk2",
     "w": 115,
     "h": 191,
-    "painted": "../sprites/painted/krang/walk2.png",
-    "bit16": "../sprites/16bit/krang/walk2.png"
+    "painted": "../sprites/painted_flat/krang_walk2.png",
+    "bit16": "../sprites/16bit_flat/krang_walk2.png"
    },
    {
     "n": "walk3",
     "w": 105,
     "h": 192,
-    "painted": "../sprites/painted/krang/walk3.png",
-    "bit16": "../sprites/16bit/krang/walk3.png"
+    "painted": "../sprites/painted_flat/krang_walk3.png",
+    "bit16": "../sprites/16bit_flat/krang_walk3.png"
    },
    {
     "n": "wind",
     "w": 104,
     "h": 184,
-    "painted": "../sprites/painted/krang/wind.png",
-    "bit16": "../sprites/16bit/krang/wind.png"
+    "painted": "../sprites/painted_flat/krang_wind.png",
+    "bit16": "../sprites/16bit_flat/krang_wind.png"
    },
    {
     "n": "punch",
     "w": 165,
     "h": 192,
-    "painted": "../sprites/painted/krang/punch.png",
-    "bit16": "../sprites/16bit/krang/punch.png"
+    "painted": "../sprites/painted_flat/krang_punch.png",
+    "bit16": "../sprites/16bit_flat/krang_punch.png"
    },
    {
     "n": "rocket",
     "w": 176,
     "h": 192,
-    "painted": "../sprites/painted/krang/rocket.png",
-    "bit16": "../sprites/16bit/krang/rocket.png"
+    "painted": "../sprites/painted_flat/krang_rocket.png",
+    "bit16": "../sprites/16bit_flat/krang_rocket.png"
    },
    {
     "n": "stompUp",
     "w": 149,
     "h": 192,
-    "painted": "../sprites/painted/krang/stompUp.png",
-    "bit16": "../sprites/16bit/krang/stompUp.png"
+    "painted": "../sprites/painted_flat/krang_stompUp.png",
+    "bit16": "../sprites/16bit_flat/krang_stompUp.png"
    },
    {
     "n": "stompDn",
     "w": 120,
     "h": 190,
-    "painted": "../sprites/painted/krang/stompDn.png",
-    "bit16": "../sprites/16bit/krang/stompDn.png"
+    "painted": "../sprites/painted_flat/krang_stompDn.png",
+    "bit16": "../sprites/16bit_flat/krang_stompDn.png"
    },
    {
     "n": "summon",
     "w": 117,
     "h": 193,
-    "painted": "../sprites/painted/krang/summon.png",
-    "bit16": "../sprites/16bit/krang/summon.png"
+    "painted": "../sprites/painted_flat/krang_summon.png",
+    "bit16": "../sprites/16bit_flat/krang_summon.png"
    },
    {
     "n": "rage",
     "w": 157,
     "h": 192,
-    "painted": "../sprites/painted/krang/rage.png",
-    "bit16": "../sprites/16bit/krang/rage.png"
+    "painted": "../sprites/painted_flat/krang_rage.png",
+    "bit16": "../sprites/16bit_flat/krang_rage.png"
    },
    {
     "n": "empty",
     "w": 216,
     "h": 59,
-    "painted": "../sprites/painted/krang/empty.png",
-    "bit16": "../sprites/16bit/krang/empty.png"
+    "painted": "../sprites/painted_flat/krang_empty.png",
+    "bit16": "../sprites/16bit_flat/krang_empty.png"
    },
    {
     "n": "hurt",
     "w": 140,
     "h": 186,
-    "painted": "../sprites/painted/krang/hurt.png",
-    "bit16": "../sprites/16bit/krang/hurt.png"
+    "painted": "../sprites/painted_flat/krang_hurt.png",
+    "bit16": "../sprites/16bit_flat/krang_hurt.png"
    },
    {
     "n": "fall",
     "w": 218,
     "h": 183,
-    "painted": "../sprites/painted/krang/fall.png",
-    "bit16": "../sprites/16bit/krang/fall.png"
+    "painted": "../sprites/painted_flat/krang_fall.png",
+    "bit16": "../sprites/16bit_flat/krang_fall.png"
    },
    {
     "n": "down",
     "w": 216,
     "h": 59,
-    "painted": "../sprites/painted/krang/down.png",
-    "bit16": "../sprites/16bit/krang/down.png"
+    "painted": "../sprites/painted_flat/krang_down.png",
+    "bit16": "../sprites/16bit_flat/krang_down.png"
    }
   ]
  },
@@ -1739,64 +1739,64 @@
     "n": "idle",
     "w": 102,
     "h": 190,
-    "painted": "../sprites/painted/shredder/idle.png",
-    "bit16": "../sprites/16bit/shredder/idle.png"
+    "painted": "../sprites/painted_flat/shredder_idle.png",
+    "bit16": "../sprites/16bit_flat/shredder_idle.png"
    },
    {
     "n": "walk",
     "w": 114,
     "h": 188,
-    "painted": "../sprites/painted/shredder/walk.png",
-    "bit16": "../sprites/16bit/shredder/walk.png"
+    "painted": "../sprites/painted_flat/shredder_walk.png",
+    "bit16": "../sprites/16bit_flat/shredder_walk.png"
    },
    {
     "n": "attack",
     "w": 128,
     "h": 170,
-    "painted": "../sprites/painted/shredder/attack.png",
-    "bit16": "../sprites/16bit/shredder/attack.png"
+    "painted": "../sprites/painted_flat/shredder_attack.png",
+    "bit16": "../sprites/16bit_flat/shredder_attack.png"
    },
    {
     "n": "jump",
     "w": 128,
     "h": 171,
-    "painted": "../sprites/painted/shredder/jump.png",
-    "bit16": "../sprites/16bit/shredder/jump.png"
+    "painted": "../sprites/painted_flat/shredder_jump.png",
+    "bit16": "../sprites/16bit_flat/shredder_jump.png"
    },
    {
     "n": "taunt",
     "w": 129,
     "h": 190,
-    "painted": "../sprites/painted/shredder/taunt.png",
-    "bit16": "../sprites/16bit/shredder/taunt.png"
+    "painted": "../sprites/painted_flat/shredder_taunt.png",
+    "bit16": "../sprites/16bit_flat/shredder_taunt.png"
    },
    {
     "n": "hurt",
     "w": 108,
     "h": 161,
-    "painted": "../sprites/painted/shredder/hurt.png",
-    "bit16": "../sprites/16bit/shredder/hurt.png"
+    "painted": "../sprites/painted_flat/shredder_hurt.png",
+    "bit16": "../sprites/16bit_flat/shredder_hurt.png"
    },
    {
     "n": "fall",
     "w": 267,
     "h": 162,
-    "painted": "../sprites/painted/shredder/fall.png",
-    "bit16": "../sprites/16bit/shredder/fall.png"
+    "painted": "../sprites/painted_flat/shredder_fall.png",
+    "bit16": "../sprites/16bit_flat/shredder_fall.png"
    },
    {
     "n": "down",
     "w": 205,
     "h": 59,
-    "painted": "../sprites/painted/shredder/down.png",
-    "bit16": "../sprites/16bit/shredder/down.png"
+    "painted": "../sprites/painted_flat/shredder_down.png",
+    "bit16": "../sprites/16bit_flat/shredder_down.png"
    },
    {
     "n": "ko",
     "w": 106,
     "h": 140,
-    "painted": "../sprites/painted/shredder/ko.png",
-    "bit16": "../sprites/16bit/shredder/ko.png"
+    "painted": "../sprites/painted_flat/shredder_ko.png",
+    "bit16": "../sprites/16bit_flat/shredder_ko.png"
    }
   ]
  },
@@ -1810,57 +1810,57 @@
     "n": "idle",
     "w": 105,
     "h": 260,
-    "painted": "../sprites/painted/super-shredder/idle.png",
-    "bit16": "../sprites/16bit/super-shredder/idle.png"
+    "painted": "../sprites/painted_flat/super-shredder_idle.png",
+    "bit16": "../sprites/16bit_flat/super-shredder_idle.png"
    },
    {
     "n": "walk",
     "w": 104,
     "h": 261,
-    "painted": "../sprites/painted/super-shredder/walk.png",
-    "bit16": "../sprites/16bit/super-shredder/walk.png"
+    "painted": "../sprites/painted_flat/super-shredder_walk.png",
+    "bit16": "../sprites/16bit_flat/super-shredder_walk.png"
    },
    {
     "n": "blast",
     "w": 101,
     "h": 229,
-    "painted": "../sprites/painted/super-shredder/blast.png",
-    "bit16": "../sprites/16bit/super-shredder/blast.png"
+    "painted": "../sprites/painted_flat/super-shredder_blast.png",
+    "bit16": "../sprites/16bit_flat/super-shredder_blast.png"
    },
    {
     "n": "raise",
     "w": 96,
     "h": 219,
-    "painted": "../sprites/painted/super-shredder/raise.png",
-    "bit16": "../sprites/16bit/super-shredder/raise.png"
+    "painted": "../sprites/painted_flat/super-shredder_raise.png",
+    "bit16": "../sprites/16bit_flat/super-shredder_raise.png"
    },
    {
     "n": "hurt",
     "w": 102,
     "h": 183,
-    "painted": "../sprites/painted/super-shredder/hurt.png",
-    "bit16": "../sprites/16bit/super-shredder/hurt.png"
+    "painted": "../sprites/painted_flat/super-shredder_hurt.png",
+    "bit16": "../sprites/16bit_flat/super-shredder_hurt.png"
    },
    {
     "n": "down",
     "w": 169,
     "h": 49,
-    "painted": "../sprites/painted/super-shredder/down.png",
-    "bit16": "../sprites/16bit/super-shredder/down.png"
+    "painted": "../sprites/painted_flat/super-shredder_down.png",
+    "bit16": "../sprites/16bit_flat/super-shredder_down.png"
    },
    {
     "n": "fall",
     "w": 158,
     "h": 172,
-    "painted": "../sprites/painted/super-shredder/fall.png",
-    "bit16": "../sprites/16bit/super-shredder/fall.png"
+    "painted": "../sprites/painted_flat/super-shredder_fall.png",
+    "bit16": "../sprites/16bit_flat/super-shredder_fall.png"
    },
    {
     "n": "ko",
     "w": 153,
     "h": 72,
-    "painted": "../sprites/painted/super-shredder/ko.png",
-    "bit16": "../sprites/16bit/super-shredder/ko.png"
+    "painted": "../sprites/painted_flat/super-shredder_ko.png",
+    "bit16": "../sprites/16bit_flat/super-shredder_ko.png"
    }
   ]
  },
@@ -1874,43 +1874,43 @@
     "n": "idle",
     "w": 100,
     "h": 150,
-    "painted": "../sprites/painted/foot-ninja/idle.png",
-    "bit16": "../sprites/16bit/foot-ninja/idle.png"
+    "painted": "../sprites/painted_flat/foot-ninja_idle.png",
+    "bit16": "../sprites/16bit_flat/foot-ninja_idle.png"
    },
    {
     "n": "walk",
     "w": 82,
     "h": 166,
-    "painted": "../sprites/painted/foot-ninja/walk.png",
-    "bit16": "../sprites/16bit/foot-ninja/walk.png"
+    "painted": "../sprites/painted_flat/foot-ninja_walk.png",
+    "bit16": "../sprites/16bit_flat/foot-ninja_walk.png"
    },
    {
     "n": "attack",
     "w": 124,
     "h": 157,
-    "painted": "../sprites/painted/foot-ninja/attack.png",
-    "bit16": "../sprites/16bit/foot-ninja/attack.png"
+    "painted": "../sprites/painted_flat/foot-ninja_attack.png",
+    "bit16": "../sprites/16bit_flat/foot-ninja_attack.png"
    },
    {
     "n": "jump",
     "w": 136,
     "h": 115,
-    "painted": "../sprites/painted/foot-ninja/jump.png",
-    "bit16": "../sprites/16bit/foot-ninja/jump.png"
+    "painted": "../sprites/painted_flat/foot-ninja_jump.png",
+    "bit16": "../sprites/16bit_flat/foot-ninja_jump.png"
    },
    {
     "n": "hurt",
     "w": 96,
     "h": 145,
-    "painted": "../sprites/painted/foot-ninja/hurt.png",
-    "bit16": "../sprites/16bit/foot-ninja/hurt.png"
+    "painted": "../sprites/painted_flat/foot-ninja_hurt.png",
+    "bit16": "../sprites/16bit_flat/foot-ninja_hurt.png"
    },
    {
     "n": "down",
     "w": 130,
     "h": 35,
-    "painted": "../sprites/painted/foot-ninja/down.png",
-    "bit16": "../sprites/16bit/foot-ninja/down.png"
+    "painted": "../sprites/painted_flat/foot-ninja_down.png",
+    "bit16": "../sprites/16bit_flat/foot-ninja_down.png"
    }
   ]
  },
@@ -1924,43 +1924,43 @@
     "n": "idle",
     "w": 101,
     "h": 150,
-    "painted": "../sprites/painted/foot-gunner/idle.png",
-    "bit16": "../sprites/16bit/foot-gunner/idle.png"
+    "painted": "../sprites/painted_flat/foot-gunner_idle.png",
+    "bit16": "../sprites/16bit_flat/foot-gunner_idle.png"
    },
    {
     "n": "walk",
     "w": 88,
     "h": 166,
-    "painted": "../sprites/painted/foot-gunner/walk.png",
-    "bit16": "../sprites/16bit/foot-gunner/walk.png"
+    "painted": "../sprites/painted_flat/foot-gunner_walk.png",
+    "bit16": "../sprites/16bit_flat/foot-gunner_walk.png"
    },
    {
     "n": "attack",
     "w": 125,
     "h": 157,
-    "painted": "../sprites/painted/foot-gunner/attack.png",
-    "bit16": "../sprites/16bit/foot-gunner/attack.png"
+    "painted": "../sprites/painted_flat/foot-gunner_attack.png",
+    "bit16": "../sprites/16bit_flat/foot-gunner_attack.png"
    },
    {
     "n": "jump",
     "w": 137,
     "h": 115,
-    "painted": "../sprites/painted/foot-gunner/jump.png",
-    "bit16": "../sprites/16bit/foot-gunner/jump.png"
+    "painted": "../sprites/painted_flat/foot-gunner_jump.png",
+    "bit16": "../sprites/16bit_flat/foot-gunner_jump.png"
    },
    {
     "n": "hurt",
     "w": 99,
     "h": 146,
-    "painted": "../sprites/painted/foot-gunner/hurt.png",
-    "bit16": "../sprites/16bit/foot-gunner/hurt.png"
+    "painted": "../sprites/painted_flat/foot-gunner_hurt.png",
+    "bit16": "../sprites/16bit_flat/foot-gunner_hurt.png"
    },
    {
     "n": "down",
     "w": 130,
     "h": 42,
-    "painted": "../sprites/painted/foot-gunner/down.png",
-    "bit16": "../sprites/16bit/foot-gunner/down.png"
+    "painted": "../sprites/painted_flat/foot-gunner_down.png",
+    "bit16": "../sprites/16bit_flat/foot-gunner_down.png"
    }
   ]
  },
@@ -1974,71 +1974,71 @@
     "n": "idle",
     "w": 108,
     "h": 160,
-    "painted": "../sprites/painted/foot-elite/idle.png",
-    "bit16": "../sprites/16bit/foot-elite/idle.png"
+    "painted": "../sprites/painted_flat/foot-elite_idle.png",
+    "bit16": "../sprites/16bit_flat/foot-elite_idle.png"
    },
    {
     "n": "walk",
     "w": 101,
     "h": 169,
-    "painted": "../sprites/painted/foot-elite/walk.png",
-    "bit16": "../sprites/16bit/foot-elite/walk.png"
+    "painted": "../sprites/painted_flat/foot-elite_walk.png",
+    "bit16": "../sprites/16bit_flat/foot-elite_walk.png"
    },
    {
     "n": "walk2",
     "w": 103,
     "h": 168,
-    "painted": "../sprites/painted/foot-elite/walk2.png",
-    "bit16": "../sprites/16bit/foot-elite/walk2.png"
+    "painted": "../sprites/painted_flat/foot-elite_walk2.png",
+    "bit16": "../sprites/16bit_flat/foot-elite_walk2.png"
    },
    {
     "n": "attack",
     "w": 156,
     "h": 163,
-    "painted": "../sprites/painted/foot-elite/attack.png",
-    "bit16": "../sprites/16bit/foot-elite/attack.png"
+    "painted": "../sprites/painted_flat/foot-elite_attack.png",
+    "bit16": "../sprites/16bit_flat/foot-elite_attack.png"
    },
    {
     "n": "jump",
     "w": 120,
     "h": 129,
-    "painted": "../sprites/painted/foot-elite/jump.png",
-    "bit16": "../sprites/16bit/foot-elite/jump.png"
+    "painted": "../sprites/painted_flat/foot-elite_jump.png",
+    "bit16": "../sprites/16bit_flat/foot-elite_jump.png"
    },
    {
     "n": "throw",
     "w": 181,
     "h": 162,
-    "painted": "../sprites/painted/foot-elite/throw.png",
-    "bit16": "../sprites/16bit/foot-elite/throw.png"
+    "painted": "../sprites/painted_flat/foot-elite_throw.png",
+    "bit16": "../sprites/16bit_flat/foot-elite_throw.png"
    },
    {
     "n": "grab",
     "w": 158,
     "h": 156,
-    "painted": "../sprites/painted/foot-elite/grab.png",
-    "bit16": "../sprites/16bit/foot-elite/grab.png"
+    "painted": "../sprites/painted_flat/foot-elite_grab.png",
+    "bit16": "../sprites/16bit_flat/foot-elite_grab.png"
    },
    {
     "n": "dash",
     "w": 175,
     "h": 114,
-    "painted": "../sprites/painted/foot-elite/dash.png",
-    "bit16": "../sprites/16bit/foot-elite/dash.png"
+    "painted": "../sprites/painted_flat/foot-elite_dash.png",
+    "bit16": "../sprites/16bit_flat/foot-elite_dash.png"
    },
    {
     "n": "hurt",
     "w": 97,
     "h": 149,
-    "painted": "../sprites/painted/foot-elite/hurt.png",
-    "bit16": "../sprites/16bit/foot-elite/hurt.png"
+    "painted": "../sprites/painted_flat/foot-elite_hurt.png",
+    "bit16": "../sprites/16bit_flat/foot-elite_hurt.png"
    },
    {
     "n": "down",
     "w": 145,
     "h": 39,
-    "painted": "../sprites/painted/foot-elite/down.png",
-    "bit16": "../sprites/16bit/foot-elite/down.png"
+    "painted": "../sprites/painted_flat/foot-elite_down.png",
+    "bit16": "../sprites/16bit_flat/foot-elite_down.png"
    }
   ]
  },
@@ -2052,64 +2052,64 @@
     "n": "idle",
     "w": 102,
     "h": 165,
-    "painted": "../sprites/painted/street-punk/idle.png",
-    "bit16": "../sprites/16bit/street-punk/idle.png"
+    "painted": "../sprites/painted_flat/street-punk_idle.png",
+    "bit16": "../sprites/16bit_flat/street-punk_idle.png"
    },
    {
     "n": "walk",
     "w": 90,
     "h": 165,
-    "painted": "../sprites/painted/street-punk/walk.png",
-    "bit16": "../sprites/16bit/street-punk/walk.png"
+    "painted": "../sprites/painted_flat/street-punk_walk.png",
+    "bit16": "../sprites/16bit_flat/street-punk_walk.png"
    },
    {
     "n": "walk2",
     "w": 83,
     "h": 163,
-    "painted": "../sprites/painted/street-punk/walk2.png",
-    "bit16": "../sprites/16bit/street-punk/walk2.png"
+    "painted": "../sprites/painted_flat/street-punk_walk2.png",
+    "bit16": "../sprites/16bit_flat/street-punk_walk2.png"
    },
    {
     "n": "attack",
     "w": 122,
     "h": 142,
-    "painted": "../sprites/painted/street-punk/attack.png",
-    "bit16": "../sprites/16bit/street-punk/attack.png"
+    "painted": "../sprites/painted_flat/street-punk_attack.png",
+    "bit16": "../sprites/16bit_flat/street-punk_attack.png"
    },
    {
     "n": "jump",
     "w": 137,
     "h": 143,
-    "painted": "../sprites/painted/street-punk/jump.png",
-    "bit16": "../sprites/16bit/street-punk/jump.png"
+    "painted": "../sprites/painted_flat/street-punk_jump.png",
+    "bit16": "../sprites/16bit_flat/street-punk_jump.png"
    },
    {
     "n": "dash",
     "w": 153,
     "h": 87,
-    "painted": "../sprites/painted/street-punk/dash.png",
-    "bit16": "../sprites/16bit/street-punk/dash.png"
+    "painted": "../sprites/painted_flat/street-punk_dash.png",
+    "bit16": "../sprites/16bit_flat/street-punk_dash.png"
    },
    {
     "n": "grab",
     "w": 154,
     "h": 87,
-    "painted": "../sprites/painted/street-punk/grab.png",
-    "bit16": "../sprites/16bit/street-punk/grab.png"
+    "painted": "../sprites/painted_flat/street-punk_grab.png",
+    "bit16": "../sprites/16bit_flat/street-punk_grab.png"
    },
    {
     "n": "hurt",
     "w": 79,
     "h": 142,
-    "painted": "../sprites/painted/street-punk/hurt.png",
-    "bit16": "../sprites/16bit/street-punk/hurt.png"
+    "painted": "../sprites/painted_flat/street-punk_hurt.png",
+    "bit16": "../sprites/16bit_flat/street-punk_hurt.png"
    },
    {
     "n": "down",
     "w": 183,
     "h": 41,
-    "painted": "../sprites/painted/street-punk/down.png",
-    "bit16": "../sprites/16bit/street-punk/down.png"
+    "painted": "../sprites/painted_flat/street-punk_down.png",
+    "bit16": "../sprites/16bit_flat/street-punk_down.png"
    }
   ]
  },
@@ -2123,57 +2123,57 @@
     "n": "idle",
     "w": 60,
     "h": 165,
-    "painted": "../sprites/painted/bat-punk/idle.png",
-    "bit16": "../sprites/16bit/bat-punk/idle.png"
+    "painted": "../sprites/painted_flat/bat-punk_idle.png",
+    "bit16": "../sprites/16bit_flat/bat-punk_idle.png"
    },
    {
     "n": "walk",
     "w": 80,
     "h": 169,
-    "painted": "../sprites/painted/bat-punk/walk.png",
-    "bit16": "../sprites/16bit/bat-punk/walk.png"
+    "painted": "../sprites/painted_flat/bat-punk_walk.png",
+    "bit16": "../sprites/16bit_flat/bat-punk_walk.png"
    },
    {
     "n": "walk2",
     "w": 87,
     "h": 167,
-    "painted": "../sprites/painted/bat-punk/walk2.png",
-    "bit16": "../sprites/16bit/bat-punk/walk2.png"
+    "painted": "../sprites/painted_flat/bat-punk_walk2.png",
+    "bit16": "../sprites/16bit_flat/bat-punk_walk2.png"
    },
    {
     "n": "attack",
     "w": 145,
     "h": 156,
-    "painted": "../sprites/painted/bat-punk/attack.png",
-    "bit16": "../sprites/16bit/bat-punk/attack.png"
+    "painted": "../sprites/painted_flat/bat-punk_attack.png",
+    "bit16": "../sprites/16bit_flat/bat-punk_attack.png"
    },
    {
     "n": "jump",
     "w": 74,
     "h": 166,
-    "painted": "../sprites/painted/bat-punk/jump.png",
-    "bit16": "../sprites/16bit/bat-punk/jump.png"
+    "painted": "../sprites/painted_flat/bat-punk_jump.png",
+    "bit16": "../sprites/16bit_flat/bat-punk_jump.png"
    },
    {
     "n": "throw",
     "w": 115,
     "h": 153,
-    "painted": "../sprites/painted/bat-punk/throw.png",
-    "bit16": "../sprites/16bit/bat-punk/throw.png"
+    "painted": "../sprites/painted_flat/bat-punk_throw.png",
+    "bit16": "../sprites/16bit_flat/bat-punk_throw.png"
    },
    {
     "n": "hurt",
     "w": 101,
     "h": 143,
-    "painted": "../sprites/painted/bat-punk/hurt.png",
-    "bit16": "../sprites/16bit/bat-punk/hurt.png"
+    "painted": "../sprites/painted_flat/bat-punk_hurt.png",
+    "bit16": "../sprites/16bit_flat/bat-punk_hurt.png"
    },
    {
     "n": "down",
     "w": 178,
     "h": 41,
-    "painted": "../sprites/painted/bat-punk/down.png",
-    "bit16": "../sprites/16bit/bat-punk/down.png"
+    "painted": "../sprites/painted_flat/bat-punk_down.png",
+    "bit16": "../sprites/16bit_flat/bat-punk_down.png"
    }
   ]
  },
@@ -2187,57 +2187,57 @@
     "n": "idle",
     "w": 91,
     "h": 163,
-    "painted": "../sprites/painted/bruiser/idle.png",
-    "bit16": "../sprites/16bit/bruiser/idle.png"
+    "painted": "../sprites/painted_flat/bruiser_idle.png",
+    "bit16": "../sprites/16bit_flat/bruiser_idle.png"
    },
    {
     "n": "walk",
     "w": 82,
     "h": 169,
-    "painted": "../sprites/painted/bruiser/walk.png",
-    "bit16": "../sprites/16bit/bruiser/walk.png"
+    "painted": "../sprites/painted_flat/bruiser_walk.png",
+    "bit16": "../sprites/16bit_flat/bruiser_walk.png"
    },
    {
     "n": "walk2",
     "w": 93,
     "h": 167,
-    "painted": "../sprites/painted/bruiser/walk2.png",
-    "bit16": "../sprites/16bit/bruiser/walk2.png"
+    "painted": "../sprites/painted_flat/bruiser_walk2.png",
+    "bit16": "../sprites/16bit_flat/bruiser_walk2.png"
    },
    {
     "n": "attack",
     "w": 146,
     "h": 163,
-    "painted": "../sprites/painted/bruiser/attack.png",
-    "bit16": "../sprites/16bit/bruiser/attack.png"
+    "painted": "../sprites/painted_flat/bruiser_attack.png",
+    "bit16": "../sprites/16bit_flat/bruiser_attack.png"
    },
    {
     "n": "jump",
     "w": 103,
     "h": 155,
-    "painted": "../sprites/painted/bruiser/jump.png",
-    "bit16": "../sprites/16bit/bruiser/jump.png"
+    "painted": "../sprites/painted_flat/bruiser_jump.png",
+    "bit16": "../sprites/16bit_flat/bruiser_jump.png"
    },
    {
     "n": "shoot",
     "w": 146,
     "h": 166,
-    "painted": "../sprites/painted/bruiser/shoot.png",
-    "bit16": "../sprites/16bit/bruiser/shoot.png"
+    "painted": "../sprites/painted_flat/bruiser_shoot.png",
+    "bit16": "../sprites/16bit_flat/bruiser_shoot.png"
    },
    {
     "n": "hurt",
     "w": 104,
     "h": 151,
-    "painted": "../sprites/painted/bruiser/hurt.png",
-    "bit16": "../sprites/16bit/bruiser/hurt.png"
+    "painted": "../sprites/painted_flat/bruiser_hurt.png",
+    "bit16": "../sprites/16bit_flat/bruiser_hurt.png"
    },
    {
     "n": "down",
     "w": 183,
     "h": 50,
-    "painted": "../sprites/painted/bruiser/down.png",
-    "bit16": "../sprites/16bit/bruiser/down.png"
+    "painted": "../sprites/painted_flat/bruiser_down.png",
+    "bit16": "../sprites/16bit_flat/bruiser_down.png"
    }
   ]
  },
@@ -2251,57 +2251,57 @@
     "n": "idle",
     "w": 97,
     "h": 165,
-    "painted": "../sprites/painted/sewer-rat-man/idle.png",
-    "bit16": "../sprites/16bit/sewer-rat-man/idle.png"
+    "painted": "../sprites/painted_flat/sewer-rat-man_idle.png",
+    "bit16": "../sprites/16bit_flat/sewer-rat-man_idle.png"
    },
    {
     "n": "walk",
     "w": 101,
     "h": 165,
-    "painted": "../sprites/painted/sewer-rat-man/walk.png",
-    "bit16": "../sprites/16bit/sewer-rat-man/walk.png"
+    "painted": "../sprites/painted_flat/sewer-rat-man_walk.png",
+    "bit16": "../sprites/16bit_flat/sewer-rat-man_walk.png"
    },
    {
     "n": "walk2",
     "w": 109,
     "h": 163,
-    "painted": "../sprites/painted/sewer-rat-man/walk2.png",
-    "bit16": "../sprites/16bit/sewer-rat-man/walk2.png"
+    "painted": "../sprites/painted_flat/sewer-rat-man_walk2.png",
+    "bit16": "../sprites/16bit_flat/sewer-rat-man_walk2.png"
    },
    {
     "n": "attack",
     "w": 152,
     "h": 121,
-    "painted": "../sprites/painted/sewer-rat-man/attack.png",
-    "bit16": "../sprites/16bit/sewer-rat-man/attack.png"
+    "painted": "../sprites/painted_flat/sewer-rat-man_attack.png",
+    "bit16": "../sprites/16bit_flat/sewer-rat-man_attack.png"
    },
    {
     "n": "jump",
     "w": 104,
     "h": 139,
-    "painted": "../sprites/painted/sewer-rat-man/jump.png",
-    "bit16": "../sprites/16bit/sewer-rat-man/jump.png"
+    "painted": "../sprites/painted_flat/sewer-rat-man_jump.png",
+    "bit16": "../sprites/16bit_flat/sewer-rat-man_jump.png"
    },
    {
     "n": "dash",
     "w": 186,
     "h": 71,
-    "painted": "../sprites/painted/sewer-rat-man/dash.png",
-    "bit16": "../sprites/16bit/sewer-rat-man/dash.png"
+    "painted": "../sprites/painted_flat/sewer-rat-man_dash.png",
+    "bit16": "../sprites/16bit_flat/sewer-rat-man_dash.png"
    },
    {
     "n": "hurt",
     "w": 97,
     "h": 143,
-    "painted": "../sprites/painted/sewer-rat-man/hurt.png",
-    "bit16": "../sprites/16bit/sewer-rat-man/hurt.png"
+    "painted": "../sprites/painted_flat/sewer-rat-man_hurt.png",
+    "bit16": "../sprites/16bit_flat/sewer-rat-man_hurt.png"
    },
    {
     "n": "down",
     "w": 192,
     "h": 51,
-    "painted": "../sprites/painted/sewer-rat-man/down.png",
-    "bit16": "../sprites/16bit/sewer-rat-man/down.png"
+    "painted": "../sprites/painted_flat/sewer-rat-man_down.png",
+    "bit16": "../sprites/16bit_flat/sewer-rat-man_down.png"
    }
   ]
  },
@@ -2315,64 +2315,64 @@
     "n": "idle",
     "w": 103,
     "h": 165,
-    "painted": "../sprites/painted/pipe-mutant/idle.png",
-    "bit16": "../sprites/16bit/pipe-mutant/idle.png"
+    "painted": "../sprites/painted_flat/pipe-mutant_idle.png",
+    "bit16": "../sprites/16bit_flat/pipe-mutant_idle.png"
    },
    {
     "n": "walk",
     "w": 89,
     "h": 165,
-    "painted": "../sprites/painted/pipe-mutant/walk.png",
-    "bit16": "../sprites/16bit/pipe-mutant/walk.png"
+    "painted": "../sprites/painted_flat/pipe-mutant_walk.png",
+    "bit16": "../sprites/16bit_flat/pipe-mutant_walk.png"
    },
    {
     "n": "walk2",
     "w": 84,
     "h": 162,
-    "painted": "../sprites/painted/pipe-mutant/walk2.png",
-    "bit16": "../sprites/16bit/pipe-mutant/walk2.png"
+    "painted": "../sprites/painted_flat/pipe-mutant_walk2.png",
+    "bit16": "../sprites/16bit_flat/pipe-mutant_walk2.png"
    },
    {
     "n": "attack",
     "w": 135,
     "h": 155,
-    "painted": "../sprites/painted/pipe-mutant/attack.png",
-    "bit16": "../sprites/16bit/pipe-mutant/attack.png"
+    "painted": "../sprites/painted_flat/pipe-mutant_attack.png",
+    "bit16": "../sprites/16bit_flat/pipe-mutant_attack.png"
    },
    {
     "n": "jump",
     "w": 135,
     "h": 143,
-    "painted": "../sprites/painted/pipe-mutant/jump.png",
-    "bit16": "../sprites/16bit/pipe-mutant/jump.png"
+    "painted": "../sprites/painted_flat/pipe-mutant_jump.png",
+    "bit16": "../sprites/16bit_flat/pipe-mutant_jump.png"
    },
    {
     "n": "throw",
     "w": 150,
     "h": 85,
-    "painted": "../sprites/painted/pipe-mutant/throw.png",
-    "bit16": "../sprites/16bit/pipe-mutant/throw.png"
+    "painted": "../sprites/painted_flat/pipe-mutant_throw.png",
+    "bit16": "../sprites/16bit_flat/pipe-mutant_throw.png"
    },
    {
     "n": "grab",
     "w": 157,
     "h": 88,
-    "painted": "../sprites/painted/pipe-mutant/grab.png",
-    "bit16": "../sprites/16bit/pipe-mutant/grab.png"
+    "painted": "../sprites/painted_flat/pipe-mutant_grab.png",
+    "bit16": "../sprites/16bit_flat/pipe-mutant_grab.png"
    },
    {
     "n": "hurt",
     "w": 83,
     "h": 142,
-    "painted": "../sprites/painted/pipe-mutant/hurt.png",
-    "bit16": "../sprites/16bit/pipe-mutant/hurt.png"
+    "painted": "../sprites/painted_flat/pipe-mutant_hurt.png",
+    "bit16": "../sprites/16bit_flat/pipe-mutant_hurt.png"
    },
    {
     "n": "down",
     "w": 186,
     "h": 42,
-    "painted": "../sprites/painted/pipe-mutant/down.png",
-    "bit16": "../sprites/16bit/pipe-mutant/down.png"
+    "painted": "../sprites/painted_flat/pipe-mutant_down.png",
+    "bit16": "../sprites/16bit_flat/pipe-mutant_down.png"
    }
   ]
  },
@@ -2386,50 +2386,50 @@
     "n": "idle",
     "w": 104,
     "h": 165,
-    "painted": "../sprites/painted/sludge-brute/idle.png",
-    "bit16": "../sprites/16bit/sludge-brute/idle.png"
+    "painted": "../sprites/painted_flat/sludge-brute_idle.png",
+    "bit16": "../sprites/16bit_flat/sludge-brute_idle.png"
    },
    {
     "n": "walk",
     "w": 90,
     "h": 165,
-    "painted": "../sprites/painted/sludge-brute/walk.png",
-    "bit16": "../sprites/16bit/sludge-brute/walk.png"
+    "painted": "../sprites/painted_flat/sludge-brute_walk.png",
+    "bit16": "../sprites/16bit_flat/sludge-brute_walk.png"
    },
    {
     "n": "walk2",
     "w": 96,
     "h": 161,
-    "painted": "../sprites/painted/sludge-brute/walk2.png",
-    "bit16": "../sprites/16bit/sludge-brute/walk2.png"
+    "painted": "../sprites/painted_flat/sludge-brute_walk2.png",
+    "bit16": "../sprites/16bit_flat/sludge-brute_walk2.png"
    },
    {
     "n": "attack",
     "w": 144,
     "h": 159,
-    "painted": "../sprites/painted/sludge-brute/attack.png",
-    "bit16": "../sprites/16bit/sludge-brute/attack.png"
+    "painted": "../sprites/painted_flat/sludge-brute_attack.png",
+    "bit16": "../sprites/16bit_flat/sludge-brute_attack.png"
    },
    {
     "n": "shoot",
     "w": 209,
     "h": 155,
-    "painted": "../sprites/painted/sludge-brute/shoot.png",
-    "bit16": "../sprites/16bit/sludge-brute/shoot.png"
+    "painted": "../sprites/painted_flat/sludge-brute_shoot.png",
+    "bit16": "../sprites/16bit_flat/sludge-brute_shoot.png"
    },
    {
     "n": "hurt",
     "w": 84,
     "h": 144,
-    "painted": "../sprites/painted/sludge-brute/hurt.png",
-    "bit16": "../sprites/16bit/sludge-brute/hurt.png"
+    "painted": "../sprites/painted_flat/sludge-brute_hurt.png",
+    "bit16": "../sprites/16bit_flat/sludge-brute_hurt.png"
    },
    {
     "n": "down",
     "w": 189,
     "h": 44,
-    "painted": "../sprites/painted/sludge-brute/down.png",
-    "bit16": "../sprites/16bit/sludge-brute/down.png"
+    "painted": "../sprites/painted_flat/sludge-brute_down.png",
+    "bit16": "../sprites/16bit_flat/sludge-brute_down.png"
    }
   ]
  },
@@ -2443,57 +2443,57 @@
     "n": "idle",
     "w": 83,
     "h": 165,
-    "painted": "../sprites/painted/biker-punk/idle.png",
-    "bit16": "../sprites/16bit/biker-punk/idle.png"
+    "painted": "../sprites/painted_flat/biker-punk_idle.png",
+    "bit16": "../sprites/16bit_flat/biker-punk_idle.png"
    },
    {
     "n": "walk",
     "w": 87,
     "h": 167,
-    "painted": "../sprites/painted/biker-punk/walk.png",
-    "bit16": "../sprites/16bit/biker-punk/walk.png"
+    "painted": "../sprites/painted_flat/biker-punk_walk.png",
+    "bit16": "../sprites/16bit_flat/biker-punk_walk.png"
    },
    {
     "n": "walk2",
     "w": 79,
     "h": 169,
-    "painted": "../sprites/painted/biker-punk/walk2.png",
-    "bit16": "../sprites/16bit/biker-punk/walk2.png"
+    "painted": "../sprites/painted_flat/biker-punk_walk2.png",
+    "bit16": "../sprites/16bit_flat/biker-punk_walk2.png"
    },
    {
     "n": "attack",
     "w": 118,
     "h": 163,
-    "painted": "../sprites/painted/biker-punk/attack.png",
-    "bit16": "../sprites/16bit/biker-punk/attack.png"
+    "painted": "../sprites/painted_flat/biker-punk_attack.png",
+    "bit16": "../sprites/16bit_flat/biker-punk_attack.png"
    },
    {
     "n": "jump",
     "w": 120,
     "h": 161,
-    "painted": "../sprites/painted/biker-punk/jump.png",
-    "bit16": "../sprites/16bit/biker-punk/jump.png"
+    "painted": "../sprites/painted_flat/biker-punk_jump.png",
+    "bit16": "../sprites/16bit_flat/biker-punk_jump.png"
    },
    {
     "n": "dash",
     "w": 175,
     "h": 87,
-    "painted": "../sprites/painted/biker-punk/dash.png",
-    "bit16": "../sprites/16bit/biker-punk/dash.png"
+    "painted": "../sprites/painted_flat/biker-punk_dash.png",
+    "bit16": "../sprites/16bit_flat/biker-punk_dash.png"
    },
    {
     "n": "hurt",
     "w": 88,
     "h": 156,
-    "painted": "../sprites/painted/biker-punk/hurt.png",
-    "bit16": "../sprites/16bit/biker-punk/hurt.png"
+    "painted": "../sprites/painted_flat/biker-punk_hurt.png",
+    "bit16": "../sprites/16bit_flat/biker-punk_hurt.png"
    },
    {
     "n": "down",
     "w": 181,
     "h": 41,
-    "painted": "../sprites/painted/biker-punk/down.png",
-    "bit16": "../sprites/16bit/biker-punk/down.png"
+    "painted": "../sprites/painted_flat/biker-punk_down.png",
+    "bit16": "../sprites/16bit_flat/biker-punk_down.png"
    }
   ]
  },
@@ -2507,64 +2507,64 @@
     "n": "idle",
     "w": 65,
     "h": 169,
-    "painted": "../sprites/painted/chain-biker/idle.png",
-    "bit16": "../sprites/16bit/chain-biker/idle.png"
+    "painted": "../sprites/painted_flat/chain-biker_idle.png",
+    "bit16": "../sprites/16bit_flat/chain-biker_idle.png"
    },
    {
     "n": "walk",
     "w": 80,
     "h": 169,
-    "painted": "../sprites/painted/chain-biker/walk.png",
-    "bit16": "../sprites/16bit/chain-biker/walk.png"
+    "painted": "../sprites/painted_flat/chain-biker_walk.png",
+    "bit16": "../sprites/16bit_flat/chain-biker_walk.png"
    },
    {
     "n": "walk2",
     "w": 82,
     "h": 167,
-    "painted": "../sprites/painted/chain-biker/walk2.png",
-    "bit16": "../sprites/16bit/chain-biker/walk2.png"
+    "painted": "../sprites/painted_flat/chain-biker_walk2.png",
+    "bit16": "../sprites/16bit_flat/chain-biker_walk2.png"
    },
    {
     "n": "attack",
     "w": 172,
     "h": 165,
-    "painted": "../sprites/painted/chain-biker/attack.png",
-    "bit16": "../sprites/16bit/chain-biker/attack.png"
+    "painted": "../sprites/painted_flat/chain-biker_attack.png",
+    "bit16": "../sprites/16bit_flat/chain-biker_attack.png"
    },
    {
     "n": "grab",
     "w": 104,
     "h": 165,
-    "painted": "../sprites/painted/chain-biker/grab.png",
-    "bit16": "../sprites/16bit/chain-biker/grab.png"
+    "painted": "../sprites/painted_flat/chain-biker_grab.png",
+    "bit16": "../sprites/16bit_flat/chain-biker_grab.png"
    },
    {
     "n": "jump",
     "w": 72,
     "h": 160,
-    "painted": "../sprites/painted/chain-biker/jump.png",
-    "bit16": "../sprites/16bit/chain-biker/jump.png"
+    "painted": "../sprites/painted_flat/chain-biker_jump.png",
+    "bit16": "../sprites/16bit_flat/chain-biker_jump.png"
    },
    {
     "n": "throw",
     "w": 145,
     "h": 164,
-    "painted": "../sprites/painted/chain-biker/throw.png",
-    "bit16": "../sprites/16bit/chain-biker/throw.png"
+    "painted": "../sprites/painted_flat/chain-biker_throw.png",
+    "bit16": "../sprites/16bit_flat/chain-biker_throw.png"
    },
    {
     "n": "hurt",
     "w": 90,
     "h": 155,
-    "painted": "../sprites/painted/chain-biker/hurt.png",
-    "bit16": "../sprites/16bit/chain-biker/hurt.png"
+    "painted": "../sprites/painted_flat/chain-biker_hurt.png",
+    "bit16": "../sprites/16bit_flat/chain-biker_hurt.png"
    },
    {
     "n": "down",
     "w": 190,
     "h": 40,
-    "painted": "../sprites/painted/chain-biker/down.png",
-    "bit16": "../sprites/16bit/chain-biker/down.png"
+    "painted": "../sprites/painted_flat/chain-biker_down.png",
+    "bit16": "../sprites/16bit_flat/chain-biker_down.png"
    }
   ]
  },
@@ -2578,57 +2578,57 @@
     "n": "idle",
     "w": 88,
     "h": 168,
-    "painted": "../sprites/painted/big-biker/idle.png",
-    "bit16": "../sprites/16bit/big-biker/idle.png"
+    "painted": "../sprites/painted_flat/big-biker_idle.png",
+    "bit16": "../sprites/16bit_flat/big-biker_idle.png"
    },
    {
     "n": "walk",
     "w": 104,
     "h": 168,
-    "painted": "../sprites/painted/big-biker/walk.png",
-    "bit16": "../sprites/16bit/big-biker/walk.png"
+    "painted": "../sprites/painted_flat/big-biker_walk.png",
+    "bit16": "../sprites/16bit_flat/big-biker_walk.png"
    },
    {
     "n": "walk2",
     "w": 103,
     "h": 168,
-    "painted": "../sprites/painted/big-biker/walk2.png",
-    "bit16": "../sprites/16bit/big-biker/walk2.png"
+    "painted": "../sprites/painted_flat/big-biker_walk2.png",
+    "bit16": "../sprites/16bit_flat/big-biker_walk2.png"
    },
    {
     "n": "attack",
     "w": 136,
     "h": 166,
-    "painted": "../sprites/painted/big-biker/attack.png",
-    "bit16": "../sprites/16bit/big-biker/attack.png"
+    "painted": "../sprites/painted_flat/big-biker_attack.png",
+    "bit16": "../sprites/16bit_flat/big-biker_attack.png"
    },
    {
     "n": "jump",
     "w": 100,
     "h": 159,
-    "painted": "../sprites/painted/big-biker/jump.png",
-    "bit16": "../sprites/16bit/big-biker/jump.png"
+    "painted": "../sprites/painted_flat/big-biker_jump.png",
+    "bit16": "../sprites/16bit_flat/big-biker_jump.png"
    },
    {
     "n": "shoot",
     "w": 136,
     "h": 167,
-    "painted": "../sprites/painted/big-biker/shoot.png",
-    "bit16": "../sprites/16bit/big-biker/shoot.png"
+    "painted": "../sprites/painted_flat/big-biker_shoot.png",
+    "bit16": "../sprites/16bit_flat/big-biker_shoot.png"
    },
    {
     "n": "hurt",
     "w": 107,
     "h": 159,
-    "painted": "../sprites/painted/big-biker/hurt.png",
-    "bit16": "../sprites/16bit/big-biker/hurt.png"
+    "painted": "../sprites/painted_flat/big-biker_hurt.png",
+    "bit16": "../sprites/16bit_flat/big-biker_hurt.png"
    },
    {
     "n": "down",
     "w": 193,
     "h": 51,
-    "painted": "../sprites/painted/big-biker/down.png",
-    "bit16": "../sprites/16bit/big-biker/down.png"
+    "painted": "../sprites/painted_flat/big-biker_down.png",
+    "bit16": "../sprites/16bit_flat/big-biker_down.png"
    }
   ]
  },
@@ -2642,64 +2642,64 @@
     "n": "idle",
     "w": 87,
     "h": 164,
-    "painted": "../sprites/painted/dock-thug/idle.png",
-    "bit16": "../sprites/16bit/dock-thug/idle.png"
+    "painted": "../sprites/painted_flat/dock-thug_idle.png",
+    "bit16": "../sprites/16bit_flat/dock-thug_idle.png"
    },
    {
     "n": "walk",
     "w": 87,
     "h": 168,
-    "painted": "../sprites/painted/dock-thug/walk.png",
-    "bit16": "../sprites/16bit/dock-thug/walk.png"
+    "painted": "../sprites/painted_flat/dock-thug_walk.png",
+    "bit16": "../sprites/16bit_flat/dock-thug_walk.png"
    },
    {
     "n": "walk2",
     "w": 84,
     "h": 168,
-    "painted": "../sprites/painted/dock-thug/walk2.png",
-    "bit16": "../sprites/16bit/dock-thug/walk2.png"
+    "painted": "../sprites/painted_flat/dock-thug_walk2.png",
+    "bit16": "../sprites/16bit_flat/dock-thug_walk2.png"
    },
    {
     "n": "attack",
     "w": 140,
     "h": 162,
-    "painted": "../sprites/painted/dock-thug/attack.png",
-    "bit16": "../sprites/16bit/dock-thug/attack.png"
+    "painted": "../sprites/painted_flat/dock-thug_attack.png",
+    "bit16": "../sprites/16bit_flat/dock-thug_attack.png"
    },
    {
     "n": "grab",
     "w": 133,
     "h": 164,
-    "painted": "../sprites/painted/dock-thug/grab.png",
-    "bit16": "../sprites/16bit/dock-thug/grab.png"
+    "painted": "../sprites/painted_flat/dock-thug_grab.png",
+    "bit16": "../sprites/16bit_flat/dock-thug_grab.png"
    },
    {
     "n": "jump",
     "w": 126,
     "h": 130,
-    "painted": "../sprites/painted/dock-thug/jump.png",
-    "bit16": "../sprites/16bit/dock-thug/jump.png"
+    "painted": "../sprites/painted_flat/dock-thug_jump.png",
+    "bit16": "../sprites/16bit_flat/dock-thug_jump.png"
    },
    {
     "n": "dash",
     "w": 152,
     "h": 106,
-    "painted": "../sprites/painted/dock-thug/dash.png",
-    "bit16": "../sprites/16bit/dock-thug/dash.png"
+    "painted": "../sprites/painted_flat/dock-thug_dash.png",
+    "bit16": "../sprites/16bit_flat/dock-thug_dash.png"
    },
    {
     "n": "hurt",
     "w": 98,
     "h": 146,
-    "painted": "../sprites/painted/dock-thug/hurt.png",
-    "bit16": "../sprites/16bit/dock-thug/hurt.png"
+    "painted": "../sprites/painted_flat/dock-thug_hurt.png",
+    "bit16": "../sprites/16bit_flat/dock-thug_hurt.png"
    },
    {
     "n": "down",
     "w": 176,
     "h": 36,
-    "painted": "../sprites/painted/dock-thug/down.png",
-    "bit16": "../sprites/16bit/dock-thug/down.png"
+    "painted": "../sprites/painted_flat/dock-thug_down.png",
+    "bit16": "../sprites/16bit_flat/dock-thug_down.png"
    }
   ]
  },
@@ -2713,57 +2713,57 @@
     "n": "idle",
     "w": 61,
     "h": 165,
-    "painted": "../sprites/painted/hook-thug/idle.png",
-    "bit16": "../sprites/16bit/hook-thug/idle.png"
+    "painted": "../sprites/painted_flat/hook-thug_idle.png",
+    "bit16": "../sprites/16bit_flat/hook-thug_idle.png"
    },
    {
     "n": "walk",
     "w": 85,
     "h": 168,
-    "painted": "../sprites/painted/hook-thug/walk.png",
-    "bit16": "../sprites/16bit/hook-thug/walk.png"
+    "painted": "../sprites/painted_flat/hook-thug_walk.png",
+    "bit16": "../sprites/16bit_flat/hook-thug_walk.png"
    },
    {
     "n": "walk2",
     "w": 94,
     "h": 168,
-    "painted": "../sprites/painted/hook-thug/walk2.png",
-    "bit16": "../sprites/16bit/hook-thug/walk2.png"
+    "painted": "../sprites/painted_flat/hook-thug_walk2.png",
+    "bit16": "../sprites/16bit_flat/hook-thug_walk2.png"
    },
    {
     "n": "attack",
     "w": 150,
     "h": 163,
-    "painted": "../sprites/painted/hook-thug/attack.png",
-    "bit16": "../sprites/16bit/hook-thug/attack.png"
+    "painted": "../sprites/painted_flat/hook-thug_attack.png",
+    "bit16": "../sprites/16bit_flat/hook-thug_attack.png"
    },
    {
     "n": "jump",
     "w": 92,
     "h": 160,
-    "painted": "../sprites/painted/hook-thug/jump.png",
-    "bit16": "../sprites/16bit/hook-thug/jump.png"
+    "painted": "../sprites/painted_flat/hook-thug_jump.png",
+    "bit16": "../sprites/16bit_flat/hook-thug_jump.png"
    },
    {
     "n": "throw",
     "w": 136,
     "h": 162,
-    "painted": "../sprites/painted/hook-thug/throw.png",
-    "bit16": "../sprites/16bit/hook-thug/throw.png"
+    "painted": "../sprites/painted_flat/hook-thug_throw.png",
+    "bit16": "../sprites/16bit_flat/hook-thug_throw.png"
    },
    {
     "n": "hurt",
     "w": 92,
     "h": 161,
-    "painted": "../sprites/painted/hook-thug/hurt.png",
-    "bit16": "../sprites/16bit/hook-thug/hurt.png"
+    "painted": "../sprites/painted_flat/hook-thug_hurt.png",
+    "bit16": "../sprites/16bit_flat/hook-thug_hurt.png"
    },
    {
     "n": "down",
     "w": 180,
     "h": 36,
-    "painted": "../sprites/painted/hook-thug/down.png",
-    "bit16": "../sprites/16bit/hook-thug/down.png"
+    "painted": "../sprites/painted_flat/hook-thug_down.png",
+    "bit16": "../sprites/16bit_flat/hook-thug_down.png"
    }
   ]
  },
@@ -2777,57 +2777,57 @@
     "n": "idle",
     "w": 98,
     "h": 162,
-    "painted": "../sprites/painted/longshoreman/idle.png",
-    "bit16": "../sprites/16bit/longshoreman/idle.png"
+    "painted": "../sprites/painted_flat/longshoreman_idle.png",
+    "bit16": "../sprites/16bit_flat/longshoreman_idle.png"
    },
    {
     "n": "walk",
     "w": 84,
     "h": 168,
-    "painted": "../sprites/painted/longshoreman/walk.png",
-    "bit16": "../sprites/16bit/longshoreman/walk.png"
+    "painted": "../sprites/painted_flat/longshoreman_walk.png",
+    "bit16": "../sprites/16bit_flat/longshoreman_walk.png"
    },
    {
     "n": "walk2",
     "w": 85,
     "h": 168,
-    "painted": "../sprites/painted/longshoreman/walk2.png",
-    "bit16": "../sprites/16bit/longshoreman/walk2.png"
+    "painted": "../sprites/painted_flat/longshoreman_walk2.png",
+    "bit16": "../sprites/16bit_flat/longshoreman_walk2.png"
    },
    {
     "n": "attack",
     "w": 142,
     "h": 162,
-    "painted": "../sprites/painted/longshoreman/attack.png",
-    "bit16": "../sprites/16bit/longshoreman/attack.png"
+    "painted": "../sprites/painted_flat/longshoreman_attack.png",
+    "bit16": "../sprites/16bit_flat/longshoreman_attack.png"
    },
    {
     "n": "jump",
     "w": 117,
     "h": 152,
-    "painted": "../sprites/painted/longshoreman/jump.png",
-    "bit16": "../sprites/16bit/longshoreman/jump.png"
+    "painted": "../sprites/painted_flat/longshoreman_jump.png",
+    "bit16": "../sprites/16bit_flat/longshoreman_jump.png"
    },
    {
     "n": "shoot",
     "w": 144,
     "h": 155,
-    "painted": "../sprites/painted/longshoreman/shoot.png",
-    "bit16": "../sprites/16bit/longshoreman/shoot.png"
+    "painted": "../sprites/painted_flat/longshoreman_shoot.png",
+    "bit16": "../sprites/16bit_flat/longshoreman_shoot.png"
    },
    {
     "n": "hurt",
     "w": 96,
     "h": 153,
-    "painted": "../sprites/painted/longshoreman/hurt.png",
-    "bit16": "../sprites/16bit/longshoreman/hurt.png"
+    "painted": "../sprites/painted_flat/longshoreman_hurt.png",
+    "bit16": "../sprites/16bit_flat/longshoreman_hurt.png"
    },
    {
     "n": "down",
     "w": 188,
     "h": 54,
-    "painted": "../sprites/painted/longshoreman/down.png",
-    "bit16": "../sprites/16bit/longshoreman/down.png"
+    "painted": "../sprites/painted_flat/longshoreman_down.png",
+    "bit16": "../sprites/16bit_flat/longshoreman_down.png"
    }
   ]
  },
@@ -2841,57 +2841,57 @@
     "n": "idle",
     "w": 74,
     "h": 168,
-    "painted": "../sprites/painted/snow-goon/idle.png",
-    "bit16": "../sprites/16bit/snow-goon/idle.png"
+    "painted": "../sprites/painted_flat/snow-goon_idle.png",
+    "bit16": "../sprites/16bit_flat/snow-goon_idle.png"
    },
    {
     "n": "walk",
     "w": 84,
     "h": 168,
-    "painted": "../sprites/painted/snow-goon/walk.png",
-    "bit16": "../sprites/16bit/snow-goon/walk.png"
+    "painted": "../sprites/painted_flat/snow-goon_walk.png",
+    "bit16": "../sprites/16bit_flat/snow-goon_walk.png"
    },
    {
     "n": "walk2",
     "w": 88,
     "h": 168,
-    "painted": "../sprites/painted/snow-goon/walk2.png",
-    "bit16": "../sprites/16bit/snow-goon/walk2.png"
+    "painted": "../sprites/painted_flat/snow-goon_walk2.png",
+    "bit16": "../sprites/16bit_flat/snow-goon_walk2.png"
    },
    {
     "n": "attack",
     "w": 149,
     "h": 161,
-    "painted": "../sprites/painted/snow-goon/attack.png",
-    "bit16": "../sprites/16bit/snow-goon/attack.png"
+    "painted": "../sprites/painted_flat/snow-goon_attack.png",
+    "bit16": "../sprites/16bit_flat/snow-goon_attack.png"
    },
    {
     "n": "jump",
     "w": 136,
     "h": 139,
-    "painted": "../sprites/painted/snow-goon/jump.png",
-    "bit16": "../sprites/16bit/snow-goon/jump.png"
+    "painted": "../sprites/painted_flat/snow-goon_jump.png",
+    "bit16": "../sprites/16bit_flat/snow-goon_jump.png"
    },
    {
     "n": "dash",
     "w": 180,
     "h": 105,
-    "painted": "../sprites/painted/snow-goon/dash.png",
-    "bit16": "../sprites/16bit/snow-goon/dash.png"
+    "painted": "../sprites/painted_flat/snow-goon_dash.png",
+    "bit16": "../sprites/16bit_flat/snow-goon_dash.png"
    },
    {
     "n": "hurt",
     "w": 96,
     "h": 153,
-    "painted": "../sprites/painted/snow-goon/hurt.png",
-    "bit16": "../sprites/16bit/snow-goon/hurt.png"
+    "painted": "../sprites/painted_flat/snow-goon_hurt.png",
+    "bit16": "../sprites/16bit_flat/snow-goon_hurt.png"
    },
    {
     "n": "down",
     "w": 177,
     "h": 38,
-    "painted": "../sprites/painted/snow-goon/down.png",
-    "bit16": "../sprites/16bit/snow-goon/down.png"
+    "painted": "../sprites/painted_flat/snow-goon_down.png",
+    "bit16": "../sprites/16bit_flat/snow-goon_down.png"
    }
   ]
  },
@@ -2905,57 +2905,57 @@
     "n": "idle",
     "w": 72,
     "h": 170,
-    "painted": "../sprites/painted/ice-axe-goon/idle.png",
-    "bit16": "../sprites/16bit/ice-axe-goon/idle.png"
+    "painted": "../sprites/painted_flat/ice-axe-goon_idle.png",
+    "bit16": "../sprites/16bit_flat/ice-axe-goon_idle.png"
    },
    {
     "n": "walk",
     "w": 86,
     "h": 167,
-    "painted": "../sprites/painted/ice-axe-goon/walk.png",
-    "bit16": "../sprites/16bit/ice-axe-goon/walk.png"
+    "painted": "../sprites/painted_flat/ice-axe-goon_walk.png",
+    "bit16": "../sprites/16bit_flat/ice-axe-goon_walk.png"
    },
    {
     "n": "walk2",
     "w": 87,
     "h": 169,
-    "painted": "../sprites/painted/ice-axe-goon/walk2.png",
-    "bit16": "../sprites/16bit/ice-axe-goon/walk2.png"
+    "painted": "../sprites/painted_flat/ice-axe-goon_walk2.png",
+    "bit16": "../sprites/16bit_flat/ice-axe-goon_walk2.png"
    },
    {
     "n": "attack",
     "w": 89,
     "h": 165,
-    "painted": "../sprites/painted/ice-axe-goon/attack.png",
-    "bit16": "../sprites/16bit/ice-axe-goon/attack.png"
+    "painted": "../sprites/painted_flat/ice-axe-goon_attack.png",
+    "bit16": "../sprites/16bit_flat/ice-axe-goon_attack.png"
    },
    {
     "n": "jump",
     "w": 79,
     "h": 162,
-    "painted": "../sprites/painted/ice-axe-goon/jump.png",
-    "bit16": "../sprites/16bit/ice-axe-goon/jump.png"
+    "painted": "../sprites/painted_flat/ice-axe-goon_jump.png",
+    "bit16": "../sprites/16bit_flat/ice-axe-goon_jump.png"
    },
    {
     "n": "throw",
     "w": 124,
     "h": 161,
-    "painted": "../sprites/painted/ice-axe-goon/throw.png",
-    "bit16": "../sprites/16bit/ice-axe-goon/throw.png"
+    "painted": "../sprites/painted_flat/ice-axe-goon_throw.png",
+    "bit16": "../sprites/16bit_flat/ice-axe-goon_throw.png"
    },
    {
     "n": "hurt",
     "w": 87,
     "h": 157,
-    "painted": "../sprites/painted/ice-axe-goon/hurt.png",
-    "bit16": "../sprites/16bit/ice-axe-goon/hurt.png"
+    "painted": "../sprites/painted_flat/ice-axe-goon_hurt.png",
+    "bit16": "../sprites/16bit_flat/ice-axe-goon_hurt.png"
    },
    {
     "n": "down",
     "w": 183,
     "h": 46,
-    "painted": "../sprites/painted/ice-axe-goon/down.png",
-    "bit16": "../sprites/16bit/ice-axe-goon/down.png"
+    "painted": "../sprites/painted_flat/ice-axe-goon_down.png",
+    "bit16": "../sprites/16bit_flat/ice-axe-goon_down.png"
    }
   ]
  },
@@ -2969,57 +2969,57 @@
     "n": "idle",
     "w": 99,
     "h": 169,
-    "painted": "../sprites/painted/freeze-goon/idle.png",
-    "bit16": "../sprites/16bit/freeze-goon/idle.png"
+    "painted": "../sprites/painted_flat/freeze-goon_idle.png",
+    "bit16": "../sprites/16bit_flat/freeze-goon_idle.png"
    },
    {
     "n": "walk",
     "w": 94,
     "h": 168,
-    "painted": "../sprites/painted/freeze-goon/walk.png",
-    "bit16": "../sprites/16bit/freeze-goon/walk.png"
+    "painted": "../sprites/painted_flat/freeze-goon_walk.png",
+    "bit16": "../sprites/16bit_flat/freeze-goon_walk.png"
    },
    {
     "n": "walk2",
     "w": 93,
     "h": 168,
-    "painted": "../sprites/painted/freeze-goon/walk2.png",
-    "bit16": "../sprites/16bit/freeze-goon/walk2.png"
+    "painted": "../sprites/painted_flat/freeze-goon_walk2.png",
+    "bit16": "../sprites/16bit_flat/freeze-goon_walk2.png"
    },
    {
     "n": "attack",
     "w": 136,
     "h": 168,
-    "painted": "../sprites/painted/freeze-goon/attack.png",
-    "bit16": "../sprites/16bit/freeze-goon/attack.png"
+    "painted": "../sprites/painted_flat/freeze-goon_attack.png",
+    "bit16": "../sprites/16bit_flat/freeze-goon_attack.png"
    },
    {
     "n": "jump",
     "w": 84,
     "h": 161,
-    "painted": "../sprites/painted/freeze-goon/jump.png",
-    "bit16": "../sprites/16bit/freeze-goon/jump.png"
+    "painted": "../sprites/painted_flat/freeze-goon_jump.png",
+    "bit16": "../sprites/16bit_flat/freeze-goon_jump.png"
    },
    {
     "n": "shoot",
     "w": 146,
     "h": 161,
-    "painted": "../sprites/painted/freeze-goon/shoot.png",
-    "bit16": "../sprites/16bit/freeze-goon/shoot.png"
+    "painted": "../sprites/painted_flat/freeze-goon_shoot.png",
+    "bit16": "../sprites/16bit_flat/freeze-goon_shoot.png"
    },
    {
     "n": "hurt",
     "w": 99,
     "h": 154,
-    "painted": "../sprites/painted/freeze-goon/hurt.png",
-    "bit16": "../sprites/16bit/freeze-goon/hurt.png"
+    "painted": "../sprites/painted_flat/freeze-goon_hurt.png",
+    "bit16": "../sprites/16bit_flat/freeze-goon_hurt.png"
    },
    {
     "n": "down",
     "w": 180,
     "h": 55,
-    "painted": "../sprites/painted/freeze-goon/down.png",
-    "bit16": "../sprites/16bit/freeze-goon/down.png"
+    "painted": "../sprites/painted_flat/freeze-goon_down.png",
+    "bit16": "../sprites/16bit_flat/freeze-goon_down.png"
    }
   ]
  },
@@ -3033,57 +3033,57 @@
     "n": "idle",
     "w": 85,
     "h": 167,
-    "painted": "../sprites/painted/scavenger/idle.png",
-    "bit16": "../sprites/16bit/scavenger/idle.png"
+    "painted": "../sprites/painted_flat/scavenger_idle.png",
+    "bit16": "../sprites/16bit_flat/scavenger_idle.png"
    },
    {
     "n": "walk",
     "w": 84,
     "h": 168,
-    "painted": "../sprites/painted/scavenger/walk.png",
-    "bit16": "../sprites/16bit/scavenger/walk.png"
+    "painted": "../sprites/painted_flat/scavenger_walk.png",
+    "bit16": "../sprites/16bit_flat/scavenger_walk.png"
    },
    {
     "n": "walk2",
     "w": 83,
     "h": 168,
-    "painted": "../sprites/painted/scavenger/walk2.png",
-    "bit16": "../sprites/16bit/scavenger/walk2.png"
+    "painted": "../sprites/painted_flat/scavenger_walk2.png",
+    "bit16": "../sprites/16bit_flat/scavenger_walk2.png"
    },
    {
     "n": "attack",
     "w": 119,
     "h": 166,
-    "painted": "../sprites/painted/scavenger/attack.png",
-    "bit16": "../sprites/16bit/scavenger/attack.png"
+    "painted": "../sprites/painted_flat/scavenger_attack.png",
+    "bit16": "../sprites/16bit_flat/scavenger_attack.png"
    },
    {
     "n": "jump",
     "w": 122,
     "h": 154,
-    "painted": "../sprites/painted/scavenger/jump.png",
-    "bit16": "../sprites/16bit/scavenger/jump.png"
+    "painted": "../sprites/painted_flat/scavenger_jump.png",
+    "bit16": "../sprites/16bit_flat/scavenger_jump.png"
    },
    {
     "n": "dash",
     "w": 173,
     "h": 115,
-    "painted": "../sprites/painted/scavenger/dash.png",
-    "bit16": "../sprites/16bit/scavenger/dash.png"
+    "painted": "../sprites/painted_flat/scavenger_dash.png",
+    "bit16": "../sprites/16bit_flat/scavenger_dash.png"
    },
    {
     "n": "hurt",
     "w": 109,
     "h": 156,
-    "painted": "../sprites/painted/scavenger/hurt.png",
-    "bit16": "../sprites/16bit/scavenger/hurt.png"
+    "painted": "../sprites/painted_flat/scavenger_hurt.png",
+    "bit16": "../sprites/16bit_flat/scavenger_hurt.png"
    },
    {
     "n": "down",
     "w": 182,
     "h": 44,
-    "painted": "../sprites/painted/scavenger/down.png",
-    "bit16": "../sprites/16bit/scavenger/down.png"
+    "painted": "../sprites/painted_flat/scavenger_down.png",
+    "bit16": "../sprites/16bit_flat/scavenger_down.png"
    }
   ]
  },
@@ -3097,57 +3097,57 @@
     "n": "idle",
     "w": 70,
     "h": 170,
-    "painted": "../sprites/painted/crowbar-goon/idle.png",
-    "bit16": "../sprites/16bit/crowbar-goon/idle.png"
+    "painted": "../sprites/painted_flat/crowbar-goon_idle.png",
+    "bit16": "../sprites/16bit_flat/crowbar-goon_idle.png"
    },
    {
     "n": "walk",
     "w": 86,
     "h": 167,
-    "painted": "../sprites/painted/crowbar-goon/walk.png",
-    "bit16": "../sprites/16bit/crowbar-goon/walk.png"
+    "painted": "../sprites/painted_flat/crowbar-goon_walk.png",
+    "bit16": "../sprites/16bit_flat/crowbar-goon_walk.png"
    },
    {
     "n": "walk2",
     "w": 85,
     "h": 169,
-    "painted": "../sprites/painted/crowbar-goon/walk2.png",
-    "bit16": "../sprites/16bit/crowbar-goon/walk2.png"
+    "painted": "../sprites/painted_flat/crowbar-goon_walk2.png",
+    "bit16": "../sprites/16bit_flat/crowbar-goon_walk2.png"
    },
    {
     "n": "attack",
     "w": 90,
     "h": 165,
-    "painted": "../sprites/painted/crowbar-goon/attack.png",
-    "bit16": "../sprites/16bit/crowbar-goon/attack.png"
+    "painted": "../sprites/painted_flat/crowbar-goon_attack.png",
+    "bit16": "../sprites/16bit_flat/crowbar-goon_attack.png"
    },
    {
     "n": "jump",
     "w": 74,
     "h": 162,
-    "painted": "../sprites/painted/crowbar-goon/jump.png",
-    "bit16": "../sprites/16bit/crowbar-goon/jump.png"
+    "painted": "../sprites/painted_flat/crowbar-goon_jump.png",
+    "bit16": "../sprites/16bit_flat/crowbar-goon_jump.png"
    },
    {
     "n": "throw",
     "w": 164,
     "h": 164,
-    "painted": "../sprites/painted/crowbar-goon/throw.png",
-    "bit16": "../sprites/16bit/crowbar-goon/throw.png"
+    "painted": "../sprites/painted_flat/crowbar-goon_throw.png",
+    "bit16": "../sprites/16bit_flat/crowbar-goon_throw.png"
    },
    {
     "n": "hurt",
     "w": 86,
     "h": 153,
-    "painted": "../sprites/painted/crowbar-goon/hurt.png",
-    "bit16": "../sprites/16bit/crowbar-goon/hurt.png"
+    "painted": "../sprites/painted_flat/crowbar-goon_hurt.png",
+    "bit16": "../sprites/16bit_flat/crowbar-goon_hurt.png"
    },
    {
     "n": "down",
     "w": 174,
     "h": 38,
-    "painted": "../sprites/painted/crowbar-goon/down.png",
-    "bit16": "../sprites/16bit/crowbar-goon/down.png"
+    "painted": "../sprites/painted_flat/crowbar-goon_down.png",
+    "bit16": "../sprites/16bit_flat/crowbar-goon_down.png"
    }
   ]
  },
@@ -3161,57 +3161,57 @@
     "n": "idle",
     "w": 90,
     "h": 166,
-    "painted": "../sprites/painted/welder-brute/idle.png",
-    "bit16": "../sprites/16bit/welder-brute/idle.png"
+    "painted": "../sprites/painted_flat/welder-brute_idle.png",
+    "bit16": "../sprites/16bit_flat/welder-brute_idle.png"
    },
    {
     "n": "walk",
     "w": 90,
     "h": 168,
-    "painted": "../sprites/painted/welder-brute/walk.png",
-    "bit16": "../sprites/16bit/welder-brute/walk.png"
+    "painted": "../sprites/painted_flat/welder-brute_walk.png",
+    "bit16": "../sprites/16bit_flat/welder-brute_walk.png"
    },
    {
     "n": "walk2",
     "w": 93,
     "h": 168,
-    "painted": "../sprites/painted/welder-brute/walk2.png",
-    "bit16": "../sprites/16bit/welder-brute/walk2.png"
+    "painted": "../sprites/painted_flat/welder-brute_walk2.png",
+    "bit16": "../sprites/16bit_flat/welder-brute_walk2.png"
    },
    {
     "n": "attack",
     "w": 146,
     "h": 159,
-    "painted": "../sprites/painted/welder-brute/attack.png",
-    "bit16": "../sprites/16bit/welder-brute/attack.png"
+    "painted": "../sprites/painted_flat/welder-brute_attack.png",
+    "bit16": "../sprites/16bit_flat/welder-brute_attack.png"
    },
    {
     "n": "jump",
     "w": 90,
     "h": 155,
-    "painted": "../sprites/painted/welder-brute/jump.png",
-    "bit16": "../sprites/16bit/welder-brute/jump.png"
+    "painted": "../sprites/painted_flat/welder-brute_jump.png",
+    "bit16": "../sprites/16bit_flat/welder-brute_jump.png"
    },
    {
     "n": "shoot",
     "w": 150,
     "h": 159,
-    "painted": "../sprites/painted/welder-brute/shoot.png",
-    "bit16": "../sprites/16bit/welder-brute/shoot.png"
+    "painted": "../sprites/painted_flat/welder-brute_shoot.png",
+    "bit16": "../sprites/16bit_flat/welder-brute_shoot.png"
    },
    {
     "n": "hurt",
     "w": 97,
     "h": 160,
-    "painted": "../sprites/painted/welder-brute/hurt.png",
-    "bit16": "../sprites/16bit/welder-brute/hurt.png"
+    "painted": "../sprites/painted_flat/welder-brute_hurt.png",
+    "bit16": "../sprites/16bit_flat/welder-brute_hurt.png"
    },
    {
     "n": "down",
     "w": 179,
     "h": 42,
-    "painted": "../sprites/painted/welder-brute/down.png",
-    "bit16": "../sprites/16bit/welder-brute/down.png"
+    "painted": "../sprites/painted_flat/welder-brute_down.png",
+    "bit16": "../sprites/16bit_flat/welder-brute_down.png"
    }
   ]
  },
@@ -3225,57 +3225,57 @@
     "n": "idle",
     "w": 93,
     "h": 167,
-    "painted": "../sprites/painted/fort-guard/idle.png",
-    "bit16": "../sprites/16bit/fort-guard/idle.png"
+    "painted": "../sprites/painted_flat/fort-guard_idle.png",
+    "bit16": "../sprites/16bit_flat/fort-guard_idle.png"
    },
    {
     "n": "walk",
     "w": 89,
     "h": 168,
-    "painted": "../sprites/painted/fort-guard/walk.png",
-    "bit16": "../sprites/16bit/fort-guard/walk.png"
+    "painted": "../sprites/painted_flat/fort-guard_walk.png",
+    "bit16": "../sprites/16bit_flat/fort-guard_walk.png"
    },
    {
     "n": "walk2",
     "w": 92,
     "h": 168,
-    "painted": "../sprites/painted/fort-guard/walk2.png",
-    "bit16": "../sprites/16bit/fort-guard/walk2.png"
+    "painted": "../sprites/painted_flat/fort-guard_walk2.png",
+    "bit16": "../sprites/16bit_flat/fort-guard_walk2.png"
    },
    {
     "n": "attack",
     "w": 144,
     "h": 160,
-    "painted": "../sprites/painted/fort-guard/attack.png",
-    "bit16": "../sprites/16bit/fort-guard/attack.png"
+    "painted": "../sprites/painted_flat/fort-guard_attack.png",
+    "bit16": "../sprites/16bit_flat/fort-guard_attack.png"
    },
    {
     "n": "jump",
     "w": 144,
     "h": 129,
-    "painted": "../sprites/painted/fort-guard/jump.png",
-    "bit16": "../sprites/16bit/fort-guard/jump.png"
+    "painted": "../sprites/painted_flat/fort-guard_jump.png",
+    "bit16": "../sprites/16bit_flat/fort-guard_jump.png"
    },
    {
     "n": "dash",
     "w": 134,
     "h": 109,
-    "painted": "../sprites/painted/fort-guard/dash.png",
-    "bit16": "../sprites/16bit/fort-guard/dash.png"
+    "painted": "../sprites/painted_flat/fort-guard_dash.png",
+    "bit16": "../sprites/16bit_flat/fort-guard_dash.png"
    },
    {
     "n": "hurt",
     "w": 91,
     "h": 149,
-    "painted": "../sprites/painted/fort-guard/hurt.png",
-    "bit16": "../sprites/16bit/fort-guard/hurt.png"
+    "painted": "../sprites/painted_flat/fort-guard_hurt.png",
+    "bit16": "../sprites/16bit_flat/fort-guard_hurt.png"
    },
    {
     "n": "down",
     "w": 181,
     "h": 38,
-    "painted": "../sprites/painted/fort-guard/down.png",
-    "bit16": "../sprites/16bit/fort-guard/down.png"
+    "painted": "../sprites/painted_flat/fort-guard_down.png",
+    "bit16": "../sprites/16bit_flat/fort-guard_down.png"
    }
   ]
  },
@@ -3289,57 +3289,57 @@
     "n": "idle",
     "w": 64,
     "h": 171,
-    "painted": "../sprites/painted/baton-guard/idle.png",
-    "bit16": "../sprites/16bit/baton-guard/idle.png"
+    "painted": "../sprites/painted_flat/baton-guard_idle.png",
+    "bit16": "../sprites/16bit_flat/baton-guard_idle.png"
    },
    {
     "n": "walk",
     "w": 76,
     "h": 168,
-    "painted": "../sprites/painted/baton-guard/walk.png",
-    "bit16": "../sprites/16bit/baton-guard/walk.png"
+    "painted": "../sprites/painted_flat/baton-guard_walk.png",
+    "bit16": "../sprites/16bit_flat/baton-guard_walk.png"
    },
    {
     "n": "walk2",
     "w": 75,
     "h": 168,
-    "painted": "../sprites/painted/baton-guard/walk2.png",
-    "bit16": "../sprites/16bit/baton-guard/walk2.png"
+    "painted": "../sprites/painted_flat/baton-guard_walk2.png",
+    "bit16": "../sprites/16bit_flat/baton-guard_walk2.png"
    },
    {
     "n": "attack",
     "w": 150,
     "h": 164,
-    "painted": "../sprites/painted/baton-guard/attack.png",
-    "bit16": "../sprites/16bit/baton-guard/attack.png"
+    "painted": "../sprites/painted_flat/baton-guard_attack.png",
+    "bit16": "../sprites/16bit_flat/baton-guard_attack.png"
    },
    {
     "n": "jump",
     "w": 100,
     "h": 162,
-    "painted": "../sprites/painted/baton-guard/jump.png",
-    "bit16": "../sprites/16bit/baton-guard/jump.png"
+    "painted": "../sprites/painted_flat/baton-guard_jump.png",
+    "bit16": "../sprites/16bit_flat/baton-guard_jump.png"
    },
    {
     "n": "throw",
     "w": 129,
     "h": 158,
-    "painted": "../sprites/painted/baton-guard/throw.png",
-    "bit16": "../sprites/16bit/baton-guard/throw.png"
+    "painted": "../sprites/painted_flat/baton-guard_throw.png",
+    "bit16": "../sprites/16bit_flat/baton-guard_throw.png"
    },
    {
     "n": "hurt",
     "w": 102,
     "h": 152,
-    "painted": "../sprites/painted/baton-guard/hurt.png",
-    "bit16": "../sprites/16bit/baton-guard/hurt.png"
+    "painted": "../sprites/painted_flat/baton-guard_hurt.png",
+    "bit16": "../sprites/16bit_flat/baton-guard_hurt.png"
    },
    {
     "n": "down",
     "w": 184,
     "h": 40,
-    "painted": "../sprites/painted/baton-guard/down.png",
-    "bit16": "../sprites/16bit/baton-guard/down.png"
+    "painted": "../sprites/painted_flat/baton-guard_down.png",
+    "bit16": "../sprites/16bit_flat/baton-guard_down.png"
    }
   ]
  },
@@ -3353,64 +3353,64 @@
     "n": "idle",
     "w": 96,
     "h": 168,
-    "painted": "../sprites/painted/heavy-guard/idle.png",
-    "bit16": "../sprites/16bit/heavy-guard/idle.png"
+    "painted": "../sprites/painted_flat/heavy-guard_idle.png",
+    "bit16": "../sprites/16bit_flat/heavy-guard_idle.png"
    },
    {
     "n": "walk",
     "w": 103,
     "h": 168,
-    "painted": "../sprites/painted/heavy-guard/walk.png",
-    "bit16": "../sprites/16bit/heavy-guard/walk.png"
+    "painted": "../sprites/painted_flat/heavy-guard_walk.png",
+    "bit16": "../sprites/16bit_flat/heavy-guard_walk.png"
    },
    {
     "n": "walk2",
     "w": 102,
     "h": 168,
-    "painted": "../sprites/painted/heavy-guard/walk2.png",
-    "bit16": "../sprites/16bit/heavy-guard/walk2.png"
+    "painted": "../sprites/painted_flat/heavy-guard_walk2.png",
+    "bit16": "../sprites/16bit_flat/heavy-guard_walk2.png"
    },
    {
     "n": "attack",
     "w": 138,
     "h": 168,
-    "painted": "../sprites/painted/heavy-guard/attack.png",
-    "bit16": "../sprites/16bit/heavy-guard/attack.png"
+    "painted": "../sprites/painted_flat/heavy-guard_attack.png",
+    "bit16": "../sprites/16bit_flat/heavy-guard_attack.png"
    },
    {
     "n": "grab",
     "w": 138,
     "h": 168,
-    "painted": "../sprites/painted/heavy-guard/grab.png",
-    "bit16": "../sprites/16bit/heavy-guard/grab.png"
+    "painted": "../sprites/painted_flat/heavy-guard_grab.png",
+    "bit16": "../sprites/16bit_flat/heavy-guard_grab.png"
    },
    {
     "n": "jump",
     "w": 96,
     "h": 166,
-    "painted": "../sprites/painted/heavy-guard/jump.png",
-    "bit16": "../sprites/16bit/heavy-guard/jump.png"
+    "painted": "../sprites/painted_flat/heavy-guard_jump.png",
+    "bit16": "../sprites/16bit_flat/heavy-guard_jump.png"
    },
    {
     "n": "shoot",
     "w": 130,
     "h": 166,
-    "painted": "../sprites/painted/heavy-guard/shoot.png",
-    "bit16": "../sprites/16bit/heavy-guard/shoot.png"
+    "painted": "../sprites/painted_flat/heavy-guard_shoot.png",
+    "bit16": "../sprites/16bit_flat/heavy-guard_shoot.png"
    },
    {
     "n": "hurt",
     "w": 122,
     "h": 160,
-    "painted": "../sprites/painted/heavy-guard/hurt.png",
-    "bit16": "../sprites/16bit/heavy-guard/hurt.png"
+    "painted": "../sprites/painted_flat/heavy-guard_hurt.png",
+    "bit16": "../sprites/16bit_flat/heavy-guard_hurt.png"
    },
    {
     "n": "down",
     "w": 189,
     "h": 49,
-    "painted": "../sprites/painted/heavy-guard/down.png",
-    "bit16": "../sprites/16bit/heavy-guard/down.png"
+    "painted": "../sprites/painted_flat/heavy-guard_down.png",
+    "bit16": "../sprites/16bit_flat/heavy-guard_down.png"
    }
   ]
  },
@@ -3424,57 +3424,57 @@
     "n": "idle",
     "w": 111,
     "h": 154,
-    "painted": "../sprites/painted/edo-shinobi/idle.png",
-    "bit16": "../sprites/16bit/edo-shinobi/idle.png"
+    "painted": "../sprites/painted_flat/edo-shinobi_idle.png",
+    "bit16": "../sprites/16bit_flat/edo-shinobi_idle.png"
    },
    {
     "n": "walk",
     "w": 92,
     "h": 169,
-    "painted": "../sprites/painted/edo-shinobi/walk.png",
-    "bit16": "../sprites/16bit/edo-shinobi/walk.png"
+    "painted": "../sprites/painted_flat/edo-shinobi_walk.png",
+    "bit16": "../sprites/16bit_flat/edo-shinobi_walk.png"
    },
    {
     "n": "walk2",
     "w": 90,
     "h": 167,
-    "painted": "../sprites/painted/edo-shinobi/walk2.png",
-    "bit16": "../sprites/16bit/edo-shinobi/walk2.png"
+    "painted": "../sprites/painted_flat/edo-shinobi_walk2.png",
+    "bit16": "../sprites/16bit_flat/edo-shinobi_walk2.png"
    },
    {
     "n": "attack",
     "w": 147,
     "h": 156,
-    "painted": "../sprites/painted/edo-shinobi/attack.png",
-    "bit16": "../sprites/16bit/edo-shinobi/attack.png"
+    "painted": "../sprites/painted_flat/edo-shinobi_attack.png",
+    "bit16": "../sprites/16bit_flat/edo-shinobi_attack.png"
    },
    {
     "n": "jump",
     "w": 142,
     "h": 128,
-    "painted": "../sprites/painted/edo-shinobi/jump.png",
-    "bit16": "../sprites/16bit/edo-shinobi/jump.png"
+    "painted": "../sprites/painted_flat/edo-shinobi_jump.png",
+    "bit16": "../sprites/16bit_flat/edo-shinobi_jump.png"
    },
    {
     "n": "dash",
     "w": 145,
     "h": 120,
-    "painted": "../sprites/painted/edo-shinobi/dash.png",
-    "bit16": "../sprites/16bit/edo-shinobi/dash.png"
+    "painted": "../sprites/painted_flat/edo-shinobi_dash.png",
+    "bit16": "../sprites/16bit_flat/edo-shinobi_dash.png"
    },
    {
     "n": "hurt",
     "w": 96,
     "h": 153,
-    "painted": "../sprites/painted/edo-shinobi/hurt.png",
-    "bit16": "../sprites/16bit/edo-shinobi/hurt.png"
+    "painted": "../sprites/painted_flat/edo-shinobi_hurt.png",
+    "bit16": "../sprites/16bit_flat/edo-shinobi_hurt.png"
    },
    {
     "n": "down",
     "w": 185,
     "h": 48,
-    "painted": "../sprites/painted/edo-shinobi/down.png",
-    "bit16": "../sprites/16bit/edo-shinobi/down.png"
+    "painted": "../sprites/painted_flat/edo-shinobi_down.png",
+    "bit16": "../sprites/16bit_flat/edo-shinobi_down.png"
    }
   ]
  },
@@ -3488,57 +3488,57 @@
     "n": "idle",
     "w": 125,
     "h": 168,
-    "painted": "../sprites/painted/edo-assassin/idle.png",
-    "bit16": "../sprites/16bit/edo-assassin/idle.png"
+    "painted": "../sprites/painted_flat/edo-assassin_idle.png",
+    "bit16": "../sprites/16bit_flat/edo-assassin_idle.png"
    },
    {
     "n": "walk",
     "w": 94,
     "h": 169,
-    "painted": "../sprites/painted/edo-assassin/walk.png",
-    "bit16": "../sprites/16bit/edo-assassin/walk.png"
+    "painted": "../sprites/painted_flat/edo-assassin_walk.png",
+    "bit16": "../sprites/16bit_flat/edo-assassin_walk.png"
    },
    {
     "n": "walk2",
     "w": 86,
     "h": 167,
-    "painted": "../sprites/painted/edo-assassin/walk2.png",
-    "bit16": "../sprites/16bit/edo-assassin/walk2.png"
+    "painted": "../sprites/painted_flat/edo-assassin_walk2.png",
+    "bit16": "../sprites/16bit_flat/edo-assassin_walk2.png"
    },
    {
     "n": "attack",
     "w": 166,
     "h": 161,
-    "painted": "../sprites/painted/edo-assassin/attack.png",
-    "bit16": "../sprites/16bit/edo-assassin/attack.png"
+    "painted": "../sprites/painted_flat/edo-assassin_attack.png",
+    "bit16": "../sprites/16bit_flat/edo-assassin_attack.png"
    },
    {
     "n": "jump",
     "w": 99,
     "h": 153,
-    "painted": "../sprites/painted/edo-assassin/jump.png",
-    "bit16": "../sprites/16bit/edo-assassin/jump.png"
+    "painted": "../sprites/painted_flat/edo-assassin_jump.png",
+    "bit16": "../sprites/16bit_flat/edo-assassin_jump.png"
    },
    {
     "n": "throw",
     "w": 135,
     "h": 160,
-    "painted": "../sprites/painted/edo-assassin/throw.png",
-    "bit16": "../sprites/16bit/edo-assassin/throw.png"
+    "painted": "../sprites/painted_flat/edo-assassin_throw.png",
+    "bit16": "../sprites/16bit_flat/edo-assassin_throw.png"
    },
    {
     "n": "hurt",
     "w": 99,
     "h": 155,
-    "painted": "../sprites/painted/edo-assassin/hurt.png",
-    "bit16": "../sprites/16bit/edo-assassin/hurt.png"
+    "painted": "../sprites/painted_flat/edo-assassin_hurt.png",
+    "bit16": "../sprites/16bit_flat/edo-assassin_hurt.png"
    },
    {
     "n": "down",
     "w": 185,
     "h": 39,
-    "painted": "../sprites/painted/edo-assassin/down.png",
-    "bit16": "../sprites/16bit/edo-assassin/down.png"
+    "painted": "../sprites/painted_flat/edo-assassin_down.png",
+    "bit16": "../sprites/16bit_flat/edo-assassin_down.png"
    }
   ]
  },
@@ -3552,57 +3552,57 @@
     "n": "idle",
     "w": 139,
     "h": 165,
-    "painted": "../sprites/painted/ronin-gunner/idle.png",
-    "bit16": "../sprites/16bit/ronin-gunner/idle.png"
+    "painted": "../sprites/painted_flat/ronin-gunner_idle.png",
+    "bit16": "../sprites/16bit_flat/ronin-gunner_idle.png"
    },
    {
     "n": "walk",
     "w": 99,
     "h": 168,
-    "painted": "../sprites/painted/ronin-gunner/walk.png",
-    "bit16": "../sprites/16bit/ronin-gunner/walk.png"
+    "painted": "../sprites/painted_flat/ronin-gunner_walk.png",
+    "bit16": "../sprites/16bit_flat/ronin-gunner_walk.png"
    },
    {
     "n": "walk2",
     "w": 98,
     "h": 168,
-    "painted": "../sprites/painted/ronin-gunner/walk2.png",
-    "bit16": "../sprites/16bit/ronin-gunner/walk2.png"
+    "painted": "../sprites/painted_flat/ronin-gunner_walk2.png",
+    "bit16": "../sprites/16bit_flat/ronin-gunner_walk2.png"
    },
    {
     "n": "attack",
     "w": 149,
     "h": 160,
-    "painted": "../sprites/painted/ronin-gunner/attack.png",
-    "bit16": "../sprites/16bit/ronin-gunner/attack.png"
+    "painted": "../sprites/painted_flat/ronin-gunner_attack.png",
+    "bit16": "../sprites/16bit_flat/ronin-gunner_attack.png"
    },
    {
     "n": "jump",
     "w": 99,
     "h": 150,
-    "painted": "../sprites/painted/ronin-gunner/jump.png",
-    "bit16": "../sprites/16bit/ronin-gunner/jump.png"
+    "painted": "../sprites/painted_flat/ronin-gunner_jump.png",
+    "bit16": "../sprites/16bit_flat/ronin-gunner_jump.png"
    },
    {
     "n": "shoot",
     "w": 208,
     "h": 155,
-    "painted": "../sprites/painted/ronin-gunner/shoot.png",
-    "bit16": "../sprites/16bit/ronin-gunner/shoot.png"
+    "painted": "../sprites/painted_flat/ronin-gunner_shoot.png",
+    "bit16": "../sprites/16bit_flat/ronin-gunner_shoot.png"
    },
    {
     "n": "hurt",
     "w": 95,
     "h": 146,
-    "painted": "../sprites/painted/ronin-gunner/hurt.png",
-    "bit16": "../sprites/16bit/ronin-gunner/hurt.png"
+    "painted": "../sprites/painted_flat/ronin-gunner_hurt.png",
+    "bit16": "../sprites/16bit_flat/ronin-gunner_hurt.png"
    },
    {
     "n": "down",
     "w": 182,
     "h": 41,
-    "painted": "../sprites/painted/ronin-gunner/down.png",
-    "bit16": "../sprites/16bit/ronin-gunner/down.png"
+    "painted": "../sprites/painted_flat/ronin-gunner_down.png",
+    "bit16": "../sprites/16bit_flat/ronin-gunner_down.png"
    }
   ]
  },
@@ -3616,57 +3616,57 @@
     "n": "idle",
     "w": 96,
     "h": 167,
-    "painted": "../sprites/painted/deckhand/idle.png",
-    "bit16": "../sprites/16bit/deckhand/idle.png"
+    "painted": "../sprites/painted_flat/deckhand_idle.png",
+    "bit16": "../sprites/16bit_flat/deckhand_idle.png"
    },
    {
     "n": "walk",
     "w": 82,
     "h": 168,
-    "painted": "../sprites/painted/deckhand/walk.png",
-    "bit16": "../sprites/16bit/deckhand/walk.png"
+    "painted": "../sprites/painted_flat/deckhand_walk.png",
+    "bit16": "../sprites/16bit_flat/deckhand_walk.png"
    },
    {
     "n": "walk2",
     "w": 88,
     "h": 168,
-    "painted": "../sprites/painted/deckhand/walk2.png",
-    "bit16": "../sprites/16bit/deckhand/walk2.png"
+    "painted": "../sprites/painted_flat/deckhand_walk2.png",
+    "bit16": "../sprites/16bit_flat/deckhand_walk2.png"
    },
    {
     "n": "attack",
     "w": 168,
     "h": 156,
-    "painted": "../sprites/painted/deckhand/attack.png",
-    "bit16": "../sprites/16bit/deckhand/attack.png"
+    "painted": "../sprites/painted_flat/deckhand_attack.png",
+    "bit16": "../sprites/16bit_flat/deckhand_attack.png"
    },
    {
     "n": "jump",
     "w": 145,
     "h": 145,
-    "painted": "../sprites/painted/deckhand/jump.png",
-    "bit16": "../sprites/16bit/deckhand/jump.png"
+    "painted": "../sprites/painted_flat/deckhand_jump.png",
+    "bit16": "../sprites/16bit_flat/deckhand_jump.png"
    },
    {
     "n": "dash",
     "w": 152,
     "h": 94,
-    "painted": "../sprites/painted/deckhand/dash.png",
-    "bit16": "../sprites/16bit/deckhand/dash.png"
+    "painted": "../sprites/painted_flat/deckhand_dash.png",
+    "bit16": "../sprites/16bit_flat/deckhand_dash.png"
    },
    {
     "n": "hurt",
     "w": 88,
     "h": 156,
-    "painted": "../sprites/painted/deckhand/hurt.png",
-    "bit16": "../sprites/16bit/deckhand/hurt.png"
+    "painted": "../sprites/painted_flat/deckhand_hurt.png",
+    "bit16": "../sprites/16bit_flat/deckhand_hurt.png"
    },
    {
     "n": "down",
     "w": 187,
     "h": 48,
-    "painted": "../sprites/painted/deckhand/down.png",
-    "bit16": "../sprites/16bit/deckhand/down.png"
+    "painted": "../sprites/painted_flat/deckhand_down.png",
+    "bit16": "../sprites/16bit_flat/deckhand_down.png"
    }
   ]
  },
@@ -3680,57 +3680,57 @@
     "n": "idle",
     "w": 72,
     "h": 169,
-    "painted": "../sprites/painted/buccaneer/idle.png",
-    "bit16": "../sprites/16bit/buccaneer/idle.png"
+    "painted": "../sprites/painted_flat/buccaneer_idle.png",
+    "bit16": "../sprites/16bit_flat/buccaneer_idle.png"
    },
    {
     "n": "walk",
     "w": 89,
     "h": 168,
-    "painted": "../sprites/painted/buccaneer/walk.png",
-    "bit16": "../sprites/16bit/buccaneer/walk.png"
+    "painted": "../sprites/painted_flat/buccaneer_walk.png",
+    "bit16": "../sprites/16bit_flat/buccaneer_walk.png"
    },
    {
     "n": "walk2",
     "w": 91,
     "h": 168,
-    "painted": "../sprites/painted/buccaneer/walk2.png",
-    "bit16": "../sprites/16bit/buccaneer/walk2.png"
+    "painted": "../sprites/painted_flat/buccaneer_walk2.png",
+    "bit16": "../sprites/16bit_flat/buccaneer_walk2.png"
    },
    {
     "n": "attack",
     "w": 146,
     "h": 158,
-    "painted": "../sprites/painted/buccaneer/attack.png",
-    "bit16": "../sprites/16bit/buccaneer/attack.png"
+    "painted": "../sprites/painted_flat/buccaneer_attack.png",
+    "bit16": "../sprites/16bit_flat/buccaneer_attack.png"
    },
    {
     "n": "jump",
     "w": 98,
     "h": 152,
-    "painted": "../sprites/painted/buccaneer/jump.png",
-    "bit16": "../sprites/16bit/buccaneer/jump.png"
+    "painted": "../sprites/painted_flat/buccaneer_jump.png",
+    "bit16": "../sprites/16bit_flat/buccaneer_jump.png"
    },
    {
     "n": "throw",
     "w": 118,
     "h": 155,
-    "painted": "../sprites/painted/buccaneer/throw.png",
-    "bit16": "../sprites/16bit/buccaneer/throw.png"
+    "painted": "../sprites/painted_flat/buccaneer_throw.png",
+    "bit16": "../sprites/16bit_flat/buccaneer_throw.png"
    },
    {
     "n": "hurt",
     "w": 85,
     "h": 157,
-    "painted": "../sprites/painted/buccaneer/hurt.png",
-    "bit16": "../sprites/16bit/buccaneer/hurt.png"
+    "painted": "../sprites/painted_flat/buccaneer_hurt.png",
+    "bit16": "../sprites/16bit_flat/buccaneer_hurt.png"
    },
    {
     "n": "down",
     "w": 171,
     "h": 43,
-    "painted": "../sprites/painted/buccaneer/down.png",
-    "bit16": "../sprites/16bit/buccaneer/down.png"
+    "painted": "../sprites/painted_flat/buccaneer_down.png",
+    "bit16": "../sprites/16bit_flat/buccaneer_down.png"
    }
   ]
  },
@@ -3744,57 +3744,57 @@
     "n": "idle",
     "w": 102,
     "h": 161,
-    "painted": "../sprites/painted/cannon-brute/idle.png",
-    "bit16": "../sprites/16bit/cannon-brute/idle.png"
+    "painted": "../sprites/painted_flat/cannon-brute_idle.png",
+    "bit16": "../sprites/16bit_flat/cannon-brute_idle.png"
    },
    {
     "n": "walk",
     "w": 103,
     "h": 168,
-    "painted": "../sprites/painted/cannon-brute/walk.png",
-    "bit16": "../sprites/16bit/cannon-brute/walk.png"
+    "painted": "../sprites/painted_flat/cannon-brute_walk.png",
+    "bit16": "../sprites/16bit_flat/cannon-brute_walk.png"
    },
    {
     "n": "walk2",
     "w": 99,
     "h": 168,
-    "painted": "../sprites/painted/cannon-brute/walk2.png",
-    "bit16": "../sprites/16bit/cannon-brute/walk2.png"
+    "painted": "../sprites/painted_flat/cannon-brute_walk2.png",
+    "bit16": "../sprites/16bit_flat/cannon-brute_walk2.png"
    },
    {
     "n": "attack",
     "w": 146,
     "h": 162,
-    "painted": "../sprites/painted/cannon-brute/attack.png",
-    "bit16": "../sprites/16bit/cannon-brute/attack.png"
+    "painted": "../sprites/painted_flat/cannon-brute_attack.png",
+    "bit16": "../sprites/16bit_flat/cannon-brute_attack.png"
    },
    {
     "n": "jump",
     "w": 96,
     "h": 157,
-    "painted": "../sprites/painted/cannon-brute/jump.png",
-    "bit16": "../sprites/16bit/cannon-brute/jump.png"
+    "painted": "../sprites/painted_flat/cannon-brute_jump.png",
+    "bit16": "../sprites/16bit_flat/cannon-brute_jump.png"
    },
    {
     "n": "shoot",
     "w": 183,
     "h": 171,
-    "painted": "../sprites/painted/cannon-brute/shoot.png",
-    "bit16": "../sprites/16bit/cannon-brute/shoot.png"
+    "painted": "../sprites/painted_flat/cannon-brute_shoot.png",
+    "bit16": "../sprites/16bit_flat/cannon-brute_shoot.png"
    },
    {
     "n": "hurt",
     "w": 94,
     "h": 154,
-    "painted": "../sprites/painted/cannon-brute/hurt.png",
-    "bit16": "../sprites/16bit/cannon-brute/hurt.png"
+    "painted": "../sprites/painted_flat/cannon-brute_hurt.png",
+    "bit16": "../sprites/16bit_flat/cannon-brute_hurt.png"
    },
    {
     "n": "down",
     "w": 180,
     "h": 51,
-    "painted": "../sprites/painted/cannon-brute/down.png",
-    "bit16": "../sprites/16bit/cannon-brute/down.png"
+    "painted": "../sprites/painted_flat/cannon-brute_down.png",
+    "bit16": "../sprites/16bit_flat/cannon-brute_down.png"
    }
   ]
  },
@@ -3808,57 +3808,57 @@
     "n": "idle",
     "w": 130,
     "h": 151,
-    "painted": "../sprites/painted/swamp-frogman/idle.png",
-    "bit16": "../sprites/16bit/swamp-frogman/idle.png"
+    "painted": "../sprites/painted_flat/swamp-frogman_idle.png",
+    "bit16": "../sprites/16bit_flat/swamp-frogman_idle.png"
    },
    {
     "n": "walk",
     "w": 105,
     "h": 168,
-    "painted": "../sprites/painted/swamp-frogman/walk.png",
-    "bit16": "../sprites/16bit/swamp-frogman/walk.png"
+    "painted": "../sprites/painted_flat/swamp-frogman_walk.png",
+    "bit16": "../sprites/16bit_flat/swamp-frogman_walk.png"
    },
    {
     "n": "walk2",
     "w": 111,
     "h": 168,
-    "painted": "../sprites/painted/swamp-frogman/walk2.png",
-    "bit16": "../sprites/16bit/swamp-frogman/walk2.png"
+    "painted": "../sprites/painted_flat/swamp-frogman_walk2.png",
+    "bit16": "../sprites/16bit_flat/swamp-frogman_walk2.png"
    },
    {
     "n": "attack",
     "w": 180,
     "h": 145,
-    "painted": "../sprites/painted/swamp-frogman/attack.png",
-    "bit16": "../sprites/16bit/swamp-frogman/attack.png"
+    "painted": "../sprites/painted_flat/swamp-frogman_attack.png",
+    "bit16": "../sprites/16bit_flat/swamp-frogman_attack.png"
    },
    {
     "n": "jump",
     "w": 149,
     "h": 166,
-    "painted": "../sprites/painted/swamp-frogman/jump.png",
-    "bit16": "../sprites/16bit/swamp-frogman/jump.png"
+    "painted": "../sprites/painted_flat/swamp-frogman_jump.png",
+    "bit16": "../sprites/16bit_flat/swamp-frogman_jump.png"
    },
    {
     "n": "dash",
     "w": 180,
     "h": 79,
-    "painted": "../sprites/painted/swamp-frogman/dash.png",
-    "bit16": "../sprites/16bit/swamp-frogman/dash.png"
+    "painted": "../sprites/painted_flat/swamp-frogman_dash.png",
+    "bit16": "../sprites/16bit_flat/swamp-frogman_dash.png"
    },
    {
     "n": "hurt",
     "w": 94,
     "h": 166,
-    "painted": "../sprites/painted/swamp-frogman/hurt.png",
-    "bit16": "../sprites/16bit/swamp-frogman/hurt.png"
+    "painted": "../sprites/painted_flat/swamp-frogman_hurt.png",
+    "bit16": "../sprites/16bit_flat/swamp-frogman_hurt.png"
    },
    {
     "n": "down",
     "w": 191,
     "h": 50,
-    "painted": "../sprites/painted/swamp-frogman/down.png",
-    "bit16": "../sprites/16bit/swamp-frogman/down.png"
+    "painted": "../sprites/painted_flat/swamp-frogman_down.png",
+    "bit16": "../sprites/16bit_flat/swamp-frogman_down.png"
    }
   ]
  },
@@ -3872,57 +3872,57 @@
     "n": "idle",
     "w": 88,
     "h": 170,
-    "painted": "../sprites/painted/lizard-outlaw/idle.png",
-    "bit16": "../sprites/16bit/lizard-outlaw/idle.png"
+    "painted": "../sprites/painted_flat/lizard-outlaw_idle.png",
+    "bit16": "../sprites/16bit_flat/lizard-outlaw_idle.png"
    },
    {
     "n": "walk",
     "w": 101,
     "h": 169,
-    "painted": "../sprites/painted/lizard-outlaw/walk.png",
-    "bit16": "../sprites/16bit/lizard-outlaw/walk.png"
+    "painted": "../sprites/painted_flat/lizard-outlaw_walk.png",
+    "bit16": "../sprites/16bit_flat/lizard-outlaw_walk.png"
    },
    {
     "n": "walk2",
     "w": 103,
     "h": 167,
-    "painted": "../sprites/painted/lizard-outlaw/walk2.png",
-    "bit16": "../sprites/16bit/lizard-outlaw/walk2.png"
+    "painted": "../sprites/painted_flat/lizard-outlaw_walk2.png",
+    "bit16": "../sprites/16bit_flat/lizard-outlaw_walk2.png"
    },
    {
     "n": "attack",
     "w": 96,
     "h": 165,
-    "painted": "../sprites/painted/lizard-outlaw/attack.png",
-    "bit16": "../sprites/16bit/lizard-outlaw/attack.png"
+    "painted": "../sprites/painted_flat/lizard-outlaw_attack.png",
+    "bit16": "../sprites/16bit_flat/lizard-outlaw_attack.png"
    },
    {
     "n": "jump",
     "w": 92,
     "h": 158,
-    "painted": "../sprites/painted/lizard-outlaw/jump.png",
-    "bit16": "../sprites/16bit/lizard-outlaw/jump.png"
+    "painted": "../sprites/painted_flat/lizard-outlaw_jump.png",
+    "bit16": "../sprites/16bit_flat/lizard-outlaw_jump.png"
    },
    {
     "n": "throw",
     "w": 144,
     "h": 165,
-    "painted": "../sprites/painted/lizard-outlaw/throw.png",
-    "bit16": "../sprites/16bit/lizard-outlaw/throw.png"
+    "painted": "../sprites/painted_flat/lizard-outlaw_throw.png",
+    "bit16": "../sprites/16bit_flat/lizard-outlaw_throw.png"
    },
    {
     "n": "hurt",
     "w": 112,
     "h": 162,
-    "painted": "../sprites/painted/lizard-outlaw/hurt.png",
-    "bit16": "../sprites/16bit/lizard-outlaw/hurt.png"
+    "painted": "../sprites/painted_flat/lizard-outlaw_hurt.png",
+    "bit16": "../sprites/16bit_flat/lizard-outlaw_hurt.png"
    },
    {
     "n": "down",
     "w": 184,
     "h": 52,
-    "painted": "../sprites/painted/lizard-outlaw/down.png",
-    "bit16": "../sprites/16bit/lizard-outlaw/down.png"
+    "painted": "../sprites/painted_flat/lizard-outlaw_down.png",
+    "bit16": "../sprites/16bit_flat/lizard-outlaw_down.png"
    }
   ]
  },
@@ -3936,57 +3936,57 @@
     "n": "idle",
     "w": 116,
     "h": 168,
-    "painted": "../sprites/painted/bog-brute/idle.png",
-    "bit16": "../sprites/16bit/bog-brute/idle.png"
+    "painted": "../sprites/painted_flat/bog-brute_idle.png",
+    "bit16": "../sprites/16bit_flat/bog-brute_idle.png"
    },
    {
     "n": "walk",
     "w": 115,
     "h": 169,
-    "painted": "../sprites/painted/bog-brute/walk.png",
-    "bit16": "../sprites/16bit/bog-brute/walk.png"
+    "painted": "../sprites/painted_flat/bog-brute_walk.png",
+    "bit16": "../sprites/16bit_flat/bog-brute_walk.png"
    },
    {
     "n": "walk2",
     "w": 120,
     "h": 167,
-    "painted": "../sprites/painted/bog-brute/walk2.png",
-    "bit16": "../sprites/16bit/bog-brute/walk2.png"
+    "painted": "../sprites/painted_flat/bog-brute_walk2.png",
+    "bit16": "../sprites/16bit_flat/bog-brute_walk2.png"
    },
    {
     "n": "attack",
     "w": 140,
     "h": 167,
-    "painted": "../sprites/painted/bog-brute/attack.png",
-    "bit16": "../sprites/16bit/bog-brute/attack.png"
+    "painted": "../sprites/painted_flat/bog-brute_attack.png",
+    "bit16": "../sprites/16bit_flat/bog-brute_attack.png"
    },
    {
     "n": "jump",
     "w": 111,
     "h": 165,
-    "painted": "../sprites/painted/bog-brute/jump.png",
-    "bit16": "../sprites/16bit/bog-brute/jump.png"
+    "painted": "../sprites/painted_flat/bog-brute_jump.png",
+    "bit16": "../sprites/16bit_flat/bog-brute_jump.png"
    },
    {
     "n": "shoot",
     "w": 118,
     "h": 168,
-    "painted": "../sprites/painted/bog-brute/shoot.png",
-    "bit16": "../sprites/16bit/bog-brute/shoot.png"
+    "painted": "../sprites/painted_flat/bog-brute_shoot.png",
+    "bit16": "../sprites/16bit_flat/bog-brute_shoot.png"
    },
    {
     "n": "hurt",
     "w": 109,
     "h": 165,
-    "painted": "../sprites/painted/bog-brute/hurt.png",
-    "bit16": "../sprites/16bit/bog-brute/hurt.png"
+    "painted": "../sprites/painted_flat/bog-brute_hurt.png",
+    "bit16": "../sprites/16bit_flat/bog-brute_hurt.png"
    },
    {
     "n": "down",
     "w": 190,
     "h": 57,
-    "painted": "../sprites/painted/bog-brute/down.png",
-    "bit16": "../sprites/16bit/bog-brute/down.png"
+    "painted": "../sprites/painted_flat/bog-brute_down.png",
+    "bit16": "../sprites/16bit_flat/bog-brute_down.png"
    }
   ]
  },
@@ -4000,57 +4000,57 @@
     "n": "idle",
     "w": 87,
     "h": 167,
-    "painted": "../sprites/painted/dim-x-trooper/idle.png",
-    "bit16": "../sprites/16bit/dim-x-trooper/idle.png"
+    "painted": "../sprites/painted_flat/dim-x-trooper_idle.png",
+    "bit16": "../sprites/16bit_flat/dim-x-trooper_idle.png"
    },
    {
     "n": "walk",
     "w": 88,
     "h": 167,
-    "painted": "../sprites/painted/dim-x-trooper/walk.png",
-    "bit16": "../sprites/16bit/dim-x-trooper/walk.png"
+    "painted": "../sprites/painted_flat/dim-x-trooper_walk.png",
+    "bit16": "../sprites/16bit_flat/dim-x-trooper_walk.png"
    },
    {
     "n": "walk2",
     "w": 90,
     "h": 169,
-    "painted": "../sprites/painted/dim-x-trooper/walk2.png",
-    "bit16": "../sprites/16bit/dim-x-trooper/walk2.png"
+    "painted": "../sprites/painted_flat/dim-x-trooper_walk2.png",
+    "bit16": "../sprites/16bit_flat/dim-x-trooper_walk2.png"
    },
    {
     "n": "attack",
     "w": 114,
     "h": 164,
-    "painted": "../sprites/painted/dim-x-trooper/attack.png",
-    "bit16": "../sprites/16bit/dim-x-trooper/attack.png"
+    "painted": "../sprites/painted_flat/dim-x-trooper_attack.png",
+    "bit16": "../sprites/16bit_flat/dim-x-trooper_attack.png"
    },
    {
     "n": "jump",
     "w": 84,
     "h": 165,
-    "painted": "../sprites/painted/dim-x-trooper/jump.png",
-    "bit16": "../sprites/16bit/dim-x-trooper/jump.png"
+    "painted": "../sprites/painted_flat/dim-x-trooper_jump.png",
+    "bit16": "../sprites/16bit_flat/dim-x-trooper_jump.png"
    },
    {
     "n": "dash",
     "w": 152,
     "h": 101,
-    "painted": "../sprites/painted/dim-x-trooper/dash.png",
-    "bit16": "../sprites/16bit/dim-x-trooper/dash.png"
+    "painted": "../sprites/painted_flat/dim-x-trooper_dash.png",
+    "bit16": "../sprites/16bit_flat/dim-x-trooper_dash.png"
    },
    {
     "n": "hurt",
     "w": 90,
     "h": 153,
-    "painted": "../sprites/painted/dim-x-trooper/hurt.png",
-    "bit16": "../sprites/16bit/dim-x-trooper/hurt.png"
+    "painted": "../sprites/painted_flat/dim-x-trooper_hurt.png",
+    "bit16": "../sprites/16bit_flat/dim-x-trooper_hurt.png"
    },
    {
     "n": "down",
     "w": 170,
     "h": 36,
-    "painted": "../sprites/painted/dim-x-trooper/down.png",
-    "bit16": "../sprites/16bit/dim-x-trooper/down.png"
+    "painted": "../sprites/painted_flat/dim-x-trooper_down.png",
+    "bit16": "../sprites/16bit_flat/dim-x-trooper_down.png"
    }
   ]
  },
@@ -4064,57 +4064,57 @@
     "n": "idle",
     "w": 81,
     "h": 171,
-    "painted": "../sprites/painted/shock-trooper/idle.png",
-    "bit16": "../sprites/16bit/shock-trooper/idle.png"
+    "painted": "../sprites/painted_flat/shock-trooper_idle.png",
+    "bit16": "../sprites/16bit_flat/shock-trooper_idle.png"
    },
    {
     "n": "walk",
     "w": 89,
     "h": 169,
-    "painted": "../sprites/painted/shock-trooper/walk.png",
-    "bit16": "../sprites/16bit/shock-trooper/walk.png"
+    "painted": "../sprites/painted_flat/shock-trooper_walk.png",
+    "bit16": "../sprites/16bit_flat/shock-trooper_walk.png"
    },
    {
     "n": "walk2",
     "w": 86,
     "h": 167,
-    "painted": "../sprites/painted/shock-trooper/walk2.png",
-    "bit16": "../sprites/16bit/shock-trooper/walk2.png"
+    "painted": "../sprites/painted_flat/shock-trooper_walk2.png",
+    "bit16": "../sprites/16bit_flat/shock-trooper_walk2.png"
    },
    {
     "n": "attack",
     "w": 154,
     "h": 164,
-    "painted": "../sprites/painted/shock-trooper/attack.png",
-    "bit16": "../sprites/16bit/shock-trooper/attack.png"
+    "painted": "../sprites/painted_flat/shock-trooper_attack.png",
+    "bit16": "../sprites/16bit_flat/shock-trooper_attack.png"
    },
    {
     "n": "jump",
     "w": 98,
     "h": 162,
-    "painted": "../sprites/painted/shock-trooper/jump.png",
-    "bit16": "../sprites/16bit/shock-trooper/jump.png"
+    "painted": "../sprites/painted_flat/shock-trooper_jump.png",
+    "bit16": "../sprites/16bit_flat/shock-trooper_jump.png"
    },
    {
     "n": "throw",
     "w": 151,
     "h": 162,
-    "painted": "../sprites/painted/shock-trooper/throw.png",
-    "bit16": "../sprites/16bit/shock-trooper/throw.png"
+    "painted": "../sprites/painted_flat/shock-trooper_throw.png",
+    "bit16": "../sprites/16bit_flat/shock-trooper_throw.png"
    },
    {
     "n": "hurt",
     "w": 108,
     "h": 153,
-    "painted": "../sprites/painted/shock-trooper/hurt.png",
-    "bit16": "../sprites/16bit/shock-trooper/hurt.png"
+    "painted": "../sprites/painted_flat/shock-trooper_hurt.png",
+    "bit16": "../sprites/16bit_flat/shock-trooper_hurt.png"
    },
    {
     "n": "down",
     "w": 183,
     "h": 37,
-    "painted": "../sprites/painted/shock-trooper/down.png",
-    "bit16": "../sprites/16bit/shock-trooper/down.png"
+    "painted": "../sprites/painted_flat/shock-trooper_down.png",
+    "bit16": "../sprites/16bit_flat/shock-trooper_down.png"
    }
   ]
  },
@@ -4128,57 +4128,57 @@
     "n": "idle",
     "w": 103,
     "h": 171,
-    "painted": "../sprites/painted/stone-heavy/idle.png",
-    "bit16": "../sprites/16bit/stone-heavy/idle.png"
+    "painted": "../sprites/painted_flat/stone-heavy_idle.png",
+    "bit16": "../sprites/16bit_flat/stone-heavy_idle.png"
    },
    {
     "n": "walk",
     "w": 108,
     "h": 169,
-    "painted": "../sprites/painted/stone-heavy/walk.png",
-    "bit16": "../sprites/16bit/stone-heavy/walk.png"
+    "painted": "../sprites/painted_flat/stone-heavy_walk.png",
+    "bit16": "../sprites/16bit_flat/stone-heavy_walk.png"
    },
    {
     "n": "walk2",
     "w": 113,
     "h": 167,
-    "painted": "../sprites/painted/stone-heavy/walk2.png",
-    "bit16": "../sprites/16bit/stone-heavy/walk2.png"
+    "painted": "../sprites/painted_flat/stone-heavy_walk2.png",
+    "bit16": "../sprites/16bit_flat/stone-heavy_walk2.png"
    },
    {
     "n": "attack",
     "w": 143,
     "h": 170,
-    "painted": "../sprites/painted/stone-heavy/attack.png",
-    "bit16": "../sprites/16bit/stone-heavy/attack.png"
+    "painted": "../sprites/painted_flat/stone-heavy_attack.png",
+    "bit16": "../sprites/16bit_flat/stone-heavy_attack.png"
    },
    {
     "n": "jump",
     "w": 110,
     "h": 159,
-    "painted": "../sprites/painted/stone-heavy/jump.png",
-    "bit16": "../sprites/16bit/stone-heavy/jump.png"
+    "painted": "../sprites/painted_flat/stone-heavy_jump.png",
+    "bit16": "../sprites/16bit_flat/stone-heavy_jump.png"
    },
    {
     "n": "shoot",
     "w": 141,
     "h": 165,
-    "painted": "../sprites/painted/stone-heavy/shoot.png",
-    "bit16": "../sprites/16bit/stone-heavy/shoot.png"
+    "painted": "../sprites/painted_flat/stone-heavy_shoot.png",
+    "bit16": "../sprites/16bit_flat/stone-heavy_shoot.png"
    },
    {
     "n": "hurt",
     "w": 103,
     "h": 157,
-    "painted": "../sprites/painted/stone-heavy/hurt.png",
-    "bit16": "../sprites/16bit/stone-heavy/hurt.png"
+    "painted": "../sprites/painted_flat/stone-heavy_hurt.png",
+    "bit16": "../sprites/16bit_flat/stone-heavy_hurt.png"
    },
    {
     "n": "down",
     "w": 189,
     "h": 48,
-    "painted": "../sprites/painted/stone-heavy/down.png",
-    "bit16": "../sprites/16bit/stone-heavy/down.png"
+    "painted": "../sprites/painted_flat/stone-heavy_down.png",
+    "bit16": "../sprites/16bit_flat/stone-heavy_down.png"
    }
   ]
  },
@@ -4192,57 +4192,57 @@
     "n": "idle",
     "w": 112,
     "h": 167,
-    "painted": "../sprites/painted/foot-heavy/idle.png",
-    "bit16": "../sprites/16bit/foot-heavy/idle.png"
+    "painted": "../sprites/painted_flat/foot-heavy_idle.png",
+    "bit16": "../sprites/16bit_flat/foot-heavy_idle.png"
    },
    {
     "n": "walk",
     "w": 97,
     "h": 168,
-    "painted": "../sprites/painted/foot-heavy/walk.png",
-    "bit16": "../sprites/16bit/foot-heavy/walk.png"
+    "painted": "../sprites/painted_flat/foot-heavy_walk.png",
+    "bit16": "../sprites/16bit_flat/foot-heavy_walk.png"
    },
    {
     "n": "walk2",
     "w": 92,
     "h": 168,
-    "painted": "../sprites/painted/foot-heavy/walk2.png",
-    "bit16": "../sprites/16bit/foot-heavy/walk2.png"
+    "painted": "../sprites/painted_flat/foot-heavy_walk2.png",
+    "bit16": "../sprites/16bit_flat/foot-heavy_walk2.png"
    },
    {
     "n": "attack",
     "w": 146,
     "h": 164,
-    "painted": "../sprites/painted/foot-heavy/attack.png",
-    "bit16": "../sprites/16bit/foot-heavy/attack.png"
+    "painted": "../sprites/painted_flat/foot-heavy_attack.png",
+    "bit16": "../sprites/16bit_flat/foot-heavy_attack.png"
    },
    {
     "n": "jump",
     "w": 107,
     "h": 157,
-    "painted": "../sprites/painted/foot-heavy/jump.png",
-    "bit16": "../sprites/16bit/foot-heavy/jump.png"
+    "painted": "../sprites/painted_flat/foot-heavy_jump.png",
+    "bit16": "../sprites/16bit_flat/foot-heavy_jump.png"
    },
    {
     "n": "shoot",
     "w": 141,
     "h": 162,
-    "painted": "../sprites/painted/foot-heavy/shoot.png",
-    "bit16": "../sprites/16bit/foot-heavy/shoot.png"
+    "painted": "../sprites/painted_flat/foot-heavy_shoot.png",
+    "bit16": "../sprites/16bit_flat/foot-heavy_shoot.png"
    },
    {
     "n": "hurt",
     "w": 91,
     "h": 155,
-    "painted": "../sprites/painted/foot-heavy/hurt.png",
-    "bit16": "../sprites/16bit/foot-heavy/hurt.png"
+    "painted": "../sprites/painted_flat/foot-heavy_hurt.png",
+    "bit16": "../sprites/16bit_flat/foot-heavy_hurt.png"
    },
    {
     "n": "down",
     "w": 191,
     "h": 48,
-    "painted": "../sprites/painted/foot-heavy/down.png",
-    "bit16": "../sprites/16bit/foot-heavy/down.png"
+    "painted": "../sprites/painted_flat/foot-heavy_down.png",
+    "bit16": "../sprites/16bit_flat/foot-heavy_down.png"
    }
   ]
  },
@@ -4256,22 +4256,22 @@
     "n": "tied",
     "w": 63,
     "h": 136,
-    "painted": "../sprites/painted/amber/tied.png",
-    "bit16": "../sprites/16bit/amber/tied.png"
+    "painted": "../sprites/painted_flat/amber_tied.png",
+    "bit16": "../sprites/16bit_flat/amber_tied.png"
    },
    {
     "n": "shout",
     "w": 58,
     "h": 136,
-    "painted": "../sprites/painted/amber/shout.png",
-    "bit16": "../sprites/16bit/amber/shout.png"
+    "painted": "../sprites/painted_flat/amber_shout.png",
+    "bit16": "../sprites/16bit_flat/amber_shout.png"
    },
    {
     "n": "free",
     "w": 62,
     "h": 150,
-    "painted": "../sprites/painted/amber/free.png",
-    "bit16": "../sprites/16bit/amber/free.png"
+    "painted": "../sprites/painted_flat/amber_free.png",
+    "bit16": "../sprites/16bit_flat/amber_free.png"
    }
   ]
  }
