@@ -4,11 +4,11 @@ A 15-level, side-scrolling beat-'em-up for the browser, in the style of the
 1989 arcade brawlers. Plain HTML5 canvas and JavaScript: no build step, no
 framework, no dependencies to run. It works offline as a PWA after the first load.
 
-Live build: https://shellshock-live.surge.sh
+Live build: https://bparlette.github.io/Turtles/
 
 > Fan-made, non-commercial. The characters (Lenny, Donny, Rafe, Miko and the
-> rest) are original designs inspired by 80s/90s turtle cartoons. Keep it
-> non-commercial and add a LICENSE before you make the repo public.
+> rest) are original designs inspired by 80s/90s turtle cartoons. Licensed
+> under CC BY-NC 4.0 (see LICENSE) — free to share and remix, non-commercial only.
 
 ## Play locally
 
@@ -74,8 +74,8 @@ If you skip `build_assets.py`, returning players keep stale cached images.
 
 ## Deploy
 
-Any static host works: GitHub Pages, Netlify, or surge. For GitHub Pages, publish
-the `game/` folder. One way is a `gh-pages` branch containing only `game/`'s contents.
+GitHub Pages deploys automatically from the `game/` folder on every push to
+`main` (see `.github/workflows/pages.yml`). Any other static host works too:
 `scripts/deploy_surge.sh` shows the surge flow, and it reads the token from the
 environment.
 
